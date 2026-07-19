@@ -2,7 +2,7 @@
 
 这里仅存放“相册”Android 客户端的公开版本信息和安装包，不包含主项目源代码、用户素材或诊断日志。
 
-- 最新版：[V0.3.11](https://github.com/zwmopen/gallery-updates/releases/tag/v0.3.11)
+- 最新版：[V0.3.13](https://github.com/zwmopen/gallery-updates/releases/tag/v0.3.13)
 - 历史归档：[V0.3.2](https://github.com/zwmopen/gallery-updates/releases/tag/v0.3.2)
 - 自动更新清单：[latest.json](latest.json)
 
