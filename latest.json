@@ -1,8 +1,8 @@
 {
-  "tag_name": "v0.3.13",
-  "version_name": "0.3.13",
-  "version_code": 16,
-  "html_url": "https://github.com/zwmopen/gallery-updates/releases/tag/v0.3.13",
-  "apk_url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.3.13/album-Android-v0.3.13.apk?download=1",
-  "sha256": "7d0e840ca77229727946b9f4f2581cce75273a853d496d65a9e33b13de9f923d"
+  "tag_name": "v0.4.1",
+  "version_name": "0.4.1",
+  "version_code": 18,
+  "html_url": "https://github.com/zwmopen/gallery-updates/releases/tag/v0.4.1",
+  "apk_url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.4.1/album-Android-v0.4.1.apk?download=1",
+  "sha256": "7ebb58a4238680c57671bc775ba41af76809e6e2cdbb70b32c8f6d58a4aaaf9f"
 }
