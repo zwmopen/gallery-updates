@@ -4,7 +4,7 @@
 
 本仓库只是公开更新通道，不是开发仓库。Windows、Android、iPhone 的完整可构建源码、设计文档和自动构建流程统一保存在私有主仓库 [`zwmopen/team-video-workflow`](https://github.com/zwmopen/team-video-workflow) 的 `tools/device-share-hub` 目录；正式版本发布页同时提供显式源码 ZIP。
 
-- Android 0.6.8、iPhone 0.6.7 与 Windows V4.1.2：[V0.6.8](https://github.com/zwmopen/gallery-updates/releases/tag/v0.6.8)
+- Android 0.6.9、iPhone 0.6.7 与 Windows V4.1.2：[V0.6.9](https://github.com/zwmopen/gallery-updates/releases/tag/v0.6.9)
 - 历史归档：[V0.3.2](https://github.com/zwmopen/gallery-updates/releases/tag/v0.3.2)
 - 自动更新清单：[latest.json](latest.json)
 
