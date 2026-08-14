@@ -1,5 +1,5 @@
 {
-  "sha256": "8672cd28ca6d19699bdd5212812592322386d5bca6708adecf8bf4baea934b79",
+  "sha256": "cfaddabcca6ff9231acfeb2f5561f37dd14ccdee8a244715c6cd30d32fea4187",
   "apk_url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.6.20/album-Android-v0.6.20.apk",
   "ios": {
     "build": "26",
