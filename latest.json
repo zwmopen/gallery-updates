@@ -1,1 +1,13 @@
-{"sha256":"308a389e1845caec23ef1e56c7f2f0f891624d6676a9b14fd3db7474ce41ba64","apk_url":"https://github.com/zwmopen/gallery-updates/releases/download/v0.6.17/album-Android-v0.6.17.apk","ios":{"build":"26","version_name":"0.6.7","sha256":"d015ee8dcf6555b9c9bacf728375045cb2f52e73ec7b3c7f9ceac0d2cb600917"},"version_code":55,"tag_name":"v0.6.17","html_url":"https://github.com/zwmopen/gallery-updates/releases/tag/v0.6.17","version_name":"0.6.17"}
+{
+  "sha256": "98e383ac394f26f4182aa9319e48b237f2aaa055483b3bad5374a4db19ba98a3",
+  "apk_url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.6.20/album-Android-v0.6.20.apk",
+  "ios": {
+    "build": "26",
+    "version_name": "0.6.7",
+    "sha256": "d015ee8dcf6555b9c9bacf728375045cb2f52e73ec7b3c7f9ceac0d2cb600917"
+  },
+  "version_code": 58,
+  "tag_name": "v0.6.20",
+  "html_url": "https://github.com/zwmopen/gallery-updates/releases/tag/v0.6.20",
+  "version_name": "0.6.20"
+}
