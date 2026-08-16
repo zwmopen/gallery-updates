@@ -2,9 +2,9 @@
   "sha256": "aed690e00396cb03c01cb5145fde362b96ffcb70270e4ce59e73b1f68fbfaf4f",
   "apk_url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.6.22/album-Android-v0.6.22.apk",
   "ios": {
-    "build": "26",
-    "version_name": "0.6.7",
-    "sha256": "d015ee8dcf6555b9c9bacf728375045cb2f52e73ec7b3c7f9ceac0d2cb600917"
+    "build": 28,
+    "version_name": "0.6.9",
+    "sha256": "6c95a72f3e331f61f072db3c48d0b54a54d66f16e639ba0be047b6c5cdad8002"
   },
   "version_code": 60,
   "tag_name": "v0.6.22",
