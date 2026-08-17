@@ -4,7 +4,7 @@
   "ios": {
     "build": 29,
     "version_name": "0.6.10",
-    "sha256": "113fb2663132b2eccc7e0df215759e14ab6183ea49c3ec641d46a634d66e999",
+    "sha256": "113fb2663132b6ecccb7e0df215759e14ab6183ea49c3ec641d46a634d66e999",
     "ipa_url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.6.23/album-iOS-v0.6.10-altstore.ipa",
     "ipa_file_name": "album-iOS-v0.6.10-altstore.ipa",
     "release_url": "https://github.com/zwmopen/gallery-updates/releases/tag/v0.6.23"
