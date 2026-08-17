@@ -1,6 +1,6 @@
 {
-  "sha256": "aed690e00396cb03c01cb5145fde362b96ffcb70270e4ce59e73b1f68fbfaf4f",
-  "apk_url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.6.22/album-Android-v0.6.22.apk",
+  "sha256": "93cfa4559b52ce2da7dd7797a8b6d852ae4149e3a6ec911decefbfa84c0096f8",
+  "apk_url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.6.23/album-Android-v0.6.23.apk",
   "ios": {
     "build": 28,
     "version_name": "0.6.9",
@@ -9,8 +9,8 @@
     "ipa_file_name": "album-iOS-v0.6.9-altstore.ipa",
     "release_url": "https://github.com/zwmopen/gallery-updates/releases/tag/v0.6.22"
   },
-  "version_code": 60,
-  "tag_name": "v0.6.22",
-  "html_url": "https://github.com/zwmopen/gallery-updates/releases/tag/v0.6.22",
-  "version_name": "0.6.22"
+  "version_code": 61,
+  "tag_name": "v0.6.23",
+  "html_url": "https://github.com/zwmopen/gallery-updates/releases/tag/v0.6.23",
+  "version_name": "0.6.23"
 }
