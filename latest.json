@@ -1,5 +1,5 @@
 {
-  "sha256": "7b3e36b9ad29aaa098b5b2c1f04c62fec5bf289366c20221164cc683c91b0b4d",
+  "sha256": "5202d0f0f44bcfd08ddd0012464a9de09fdea367a414eb858850654641d0dfe7",
   "apk_url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.6.23/album-Android-v0.6.23.apk",
   "ios": {
     "build": 28,
