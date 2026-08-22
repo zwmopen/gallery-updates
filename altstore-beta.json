@@ -17,11 +17,11 @@
         {
           "version": "0.6.32",
           "buildVersion": "51",
-          "date": "2026-08-22T15:13:19Z",
+          "date": "2026-08-22T15:42:00Z",
           "localizedDescription": "修复自动更新失败后无法重试，并补齐精准流量/泛流量库存信标；Beta 构建 0.6.32/build 51。",
-          "downloadURL": "https://github.com/zwmopen/gallery-updates/releases/download/v0.6.45-beta.1/album-iOS-v0.6.32-altstore.ipa",
+          "downloadURL": "https://github.com/zwmopen/gallery-updates/releases/download/v0.6.45-beta.2/album-iOS-v0.6.32-altstore.ipa",
           "size": 22885725,
-          "sha256": "21106f8ca543bfcb940dd15fa7fada8735e3a075a5364b5026acf9833ee569f8"
+          "sha256": "19e1ab04cc83ac0f0df573c03c52dd6167a267d776af3408013f0b75cd01a52d"
         },
         {
           "version": "0.6.31",
