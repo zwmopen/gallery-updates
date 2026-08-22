@@ -15,6 +15,15 @@
       "category": "photo-video",
       "versions": [
         {
+          "version": "0.6.35",
+          "buildVersion": "54",
+          "date": "2026-08-22T19:35:32Z",
+          "localizedDescription": "修复 iOS P2P ICE 候选竞态并统一版本元数据；Beta 0.6.35（build 54）。",
+          "downloadURL": "https://github.com/zwmopen/gallery-updates/releases/download/v0.6.48-beta.1/album-iOS-v0.6.35-altstore.ipa",
+          "size": 22890476,
+          "sha256": "2ad5da8a18d7b62565812d6d9c81cdb164f204605354a4686c8db2244e06921b"
+        },
+        {
           "version": "0.6.34",
           "buildVersion": "53",
           "date": "2026-08-23T02:00:00Z",
