@@ -15,6 +15,15 @@
       "category": "photo-video",
       "versions": [
         {
+          "version": "0.6.38",
+          "buildVersion": "57",
+          "date": "2026-08-22T22:50:21.3464547Z",
+          "localizedDescription": "Windows 原生 P2P DataChannel loopback 与生命周期修复；Beta 0.6.38（build 57）。",
+          "downloadURL": "https://github.com/zwmopen/gallery-updates/releases/download/v0.6.51-beta.1/album-iOS-v0.6.38-altstore.ipa",
+          "size": 22890492,
+          "sha256": "ce420ce46846921b424a9cafcc66307cd12806757219808c47b6f4ced16b2fbb"
+        },
+        {
           "version": "0.6.37",
           "buildVersion": "56",
           "date": "2026-08-22T20:48:50.1776354Z",
