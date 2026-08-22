@@ -15,6 +15,15 @@
       "category": "photo-video",
       "versions": [
         {
+          "version": "0.6.36",
+          "buildVersion": "55",
+          "date": "2026-08-22T20:06:15.6032710Z",
+          "localizedDescription": "修复 P2P 成功后的信令会话清理；Beta 0.6.36（build 55）。",
+          "downloadURL": "https://github.com/zwmopen/gallery-updates/releases/download/v0.6.49-beta.1/album-iOS-v0.6.36-altstore.ipa",
+          "size": 22890492,
+          "sha256": "4687f0fa1163c428e06610ce10fc8edcb367530274288f6c9467b7f76e24edca"
+        },
+        {
           "version": "0.6.35",
           "buildVersion": "54",
           "date": "2026-08-22T19:35:32Z",
