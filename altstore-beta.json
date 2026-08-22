@@ -15,6 +15,15 @@
       "category": "photo-video",
       "versions": [
         {
+          "version": "0.6.28",
+          "buildVersion": "47",
+          "date": "2026-08-22T08:43:06Z",
+          "localizedDescription": "修复 Android P2P 跨线程状态可见性；Beta 构建",
+          "downloadURL": "https://github.com/zwmopen/gallery-updates/releases/download/v0.6.41-beta.1/album-iOS-v0.6.28-altstore.ipa",
+          "size": 22884871,
+          "sha256": "b03f6fa4ba9830b88f059fc1a5fe41f07d4b24d8e852ec6049c7e77e4a28deed"
+        },
+        {
           "version": "0.6.27",
           "buildVersion": "46",
           "date": "2026-08-22T08:00:16Z",
