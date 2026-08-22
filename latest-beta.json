@@ -1,18 +1,18 @@
 {
   "schema": 1,
   "channel": "beta",
-  "version_name": "0.6.48",
-  "version_code": 86,
-  "sha256": "501f1bed085a1b37b13deb89a2bc5879b07a01c1ec42c6108a59bb49ce53d15d",
-  "apk_url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.6.48-beta.1/album-Android-v0.6.48.apk",
-  "tag_name": "v0.6.48-beta.1",
-  "html_url": "https://github.com/zwmopen/gallery-updates/releases/tag/v0.6.48-beta.1",
+  "version_name": "0.6.49",
+  "version_code": 87,
+  "sha256": "06fdbfa2ce1a55eccd00b958fe1723fbab4c798c74d39b3d0c7cd30959e0b515",
+  "apk_url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.6.49-beta.1/album-Android-v0.6.49.apk",
+  "tag_name": "v0.6.49-beta.1",
+  "html_url": "https://github.com/zwmopen/gallery-updates/releases/tag/v0.6.49-beta.1",
   "ios": {
-    "version_name": "0.6.35",
-    "build": 54,
-    "sha256": "2ad5da8a18d7b62565812d6d9c81cdb164f204605354a4686c8db2244e06921b",
-    "ipa_url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.6.48-beta.1/album-iOS-v0.6.35-altstore.ipa",
-    "ipa_file_name": "album-iOS-v0.6.35-altstore.ipa",
-    "release_url": "https://github.com/zwmopen/gallery-updates/releases/tag/v0.6.48-beta.1"
+    "version_name": "0.6.36",
+    "build": 55,
+    "sha256": "4687f0fa1163c428e06610ce10fc8edcb367530274288f6c9467b7f76e24edca",
+    "ipa_url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.6.49-beta.1/album-iOS-v0.6.36-altstore.ipa",
+    "ipa_file_name": "album-iOS-v0.6.36-altstore.ipa",
+    "release_url": "https://github.com/zwmopen/gallery-updates/releases/tag/v0.6.49-beta.1"
   }
 }
