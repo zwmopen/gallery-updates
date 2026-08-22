@@ -15,9 +15,18 @@
       "category": "photo-video",
       "versions": [
         {
+          "version": "0.6.37",
+          "buildVersion": "56",
+          "date": "2026-08-22T20:48:50.1776354Z",
+          "localizedDescription": "新增远程中继 HTTPS 代理配置并修复 Windows 版本标识；Beta 0.6.37（build 56）。",
+          "downloadURL": "https://github.com/zwmopen/gallery-updates/releases/download/v0.6.50-beta.1/album-iOS-v0.6.37-altstore.ipa",
+          "size": 22890494,
+          "sha256": "6cfaa0f7e7db5bf544cdbf172f663d06e9f6c0b06b1ffe59dae9568615dfe2e0"
+        },
+        {
           "version": "0.6.36",
           "buildVersion": "55",
-          "date": "2026-08-22T20:06:15.6032710Z",
+          "date": "2026-08-22T20:06:15.603271Z",
           "localizedDescription": "修复 P2P 成功后的信令会话清理；Beta 0.6.36（build 55）。",
           "downloadURL": "https://github.com/zwmopen/gallery-updates/releases/download/v0.6.49-beta.1/album-iOS-v0.6.36-altstore.ipa",
           "size": 22890492,
