@@ -15,6 +15,15 @@
       "category": "photo-video",
       "versions": [
         {
+          "version": "0.6.26",
+          "buildVersion": "45",
+          "date": "2026-08-22T07:11:27Z",
+          "localizedDescription": "修复 Android P2P 会话启动失败后的重试回收；Beta 构建",
+          "downloadURL": "https://github.com/zwmopen/gallery-updates/releases/download/v0.6.39-beta.1/album-iOS-v0.6.26-altstore.ipa",
+          "size": 22884871,
+          "sha256": "189cd17b4904dd97b8fa750559fcb6eeabb018a3274c1367967c2534339b8506"
+        },
+        {
           "version": "0.6.25",
           "buildVersion": "44",
           "date": "2026-08-22T06:35:11Z",
