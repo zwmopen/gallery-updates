@@ -1,1 +1,54 @@
-{   "name": "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ô´",   "subtitle": "ï¿½ï¿½ï¿½ iPhone ï¿½ï¿½ï¿½Ã²ï¿½ï¿½Ø¸ï¿½ï¿½ï¿½",   "description": "ï¿½ï¿½ï¿½ iPhone ï¿½Í»ï¿½ï¿½Ëµï¿½ AltStore ï¿½ï¿½ï¿½ï¿½Ô´ï¿½ï¿½ï¿½×´ï¿½ï¿½ï¿½ï¿½Óºó£¬ºï¿½ï¿½ï¿½ï¿½Æ¶Ë·ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Â°æ±¾ï¿½ï¿½ï¿½Ô¶ï¿½ï¿½ï¿½ AltStore ï¿½ï¿½ï¿½Ö¡ï¿½",   "iconURL": "https://github.com/zwmopen.png?size=512",   "apps": [     {       "name": "ï¿½ï¿½ï¿½",       "bundleIdentifier": "com.zwm.album",       "developerName": "zwmopen",       "subtitle": "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ·ï¿½ï¿½ï¿½Ä¼ï¿½ï¿½ï¿½ï¿½ï¿½",       "localizedDescription": "ï¿½ï¿½ï¿½Ú½ï¿½ï¿½ï¿½ï¿½ï¿½Æ·ï¿½ï¿½ï¿½é¿´ï¿½ï¿½ï¿½Ýºï¿½ï¿½ï¿½ï¿½ï¿½Ô´ï¿½ï¿½ï¿½ï¿½Ä¼ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ iPhone ï¿½Í»ï¿½ï¿½Ë¡ï¿½",       "iconURL": "https://github.com/zwmopen.png?size=512",       "tintColor": "#4F9D69",       "category": "photo-video",       "versions": [         {           "version": "0.6.22",           "buildVersion": "41",           "date": "2026-08-22T03:19:24Z",           "localizedDescription": "ï¿½Æ¶Ë¸ï¿½ï¿½Â£ï¿½0.6.22ï¿½ï¿½build 41ï¿½ï¿½ï¿½ï¿½",           "downloadURL": "https://github.com/zwmopen/gallery-updates/releases/download/v0.6.35-beta.1/album-iOS-v0.6.22-altstore.ipa",           "size": 22882233,           "sha256": "a6b5582b286bf71c6cf1afbb2e9486768a671d99d3f0487dedd25badb11fea11"         },         {           "version": "0.6.16",           "buildVersion": "35",           "date": "2026-08-20T08:52:49Z",           "localizedDescription": "äº‘ç«¯æ›´æ–°ï¼š0.6.16ï¼ˆbuild 35ï¼‰ã€‚",           "downloadURL": "https://github.com/zwmopen/gallery-updates/releases/download/v0.6.29/album-iOS-v0.6.16-altstore.ipa",           "size": 16907535,           "sha256": "5e38d3cd215b0125559b91778be19be9e491226c538e21cefd4e7816695c1bca"         },         {           "version": "0.6.15",           "buildVersion": "34",           "date": "2026-08-20T05:03:07Z",           "localizedDescription": "äº‘ç«¯æ›´æ–°ï¼š0.6.15ï¼ˆbuild 34ï¼‰ã€‚",           "downloadURL": "https://github.com/zwmopen/gallery-updates/releases/download/v0.6.28/album-iOS-v0.6.15-altstore.ipa",           "size": 16904580,           "sha256": "3fa49ba0ff487ad4430a98c877782450cef4c747aecd87394b33f489e1832ce9"         }       ],       "appPermissions": {         "entitlements": [],         "privacy": {           "NSLocalNetworkUsageDescription": "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Í¬Ò» Wi-Fi ï¿½ï¿½ï¿½Ø²ï¿½Í¶ï¿½ï¿½ï¿½Ð¿ï¿½ï¿½Ô¶ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì¨ iPhoneï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä¼ï¿½Ö±ï¿½Ó´ï¿½ï¿½ï¿½ï¿½ï¿½Ñ¡ï¿½ï¿½Æ·ï¿½Ä¼ï¿½ï¿½Ð¡ï¿½"         }       }     }   ],   "news": [] }
+{
+  "name": "Ïà²á¸üÐÂÔ´",
+  "subtitle": "Ïà²á iPhone ×ÔÓÃ²àÔØ¸üÐÂ",
+  "description": "Ïà²á iPhone ¿Í»§¶ËµÄ AltStore ¸üÐÂÔ´¡£Ê×´ÎÌí¼Óºó£¬ºóÐøÔÆ¶Ë·¢²¼µÄÐÂ°æ±¾»á×Ô¶¯±» AltStore ·¢ÏÖ¡£",
+  "iconURL": "https://github.com/zwmopen.png?size=512",
+  "apps": [
+    {
+      "name": "Ïà²á",
+      "bundleIdentifier": "com.zwm.album",
+      "developerName": "zwmopen",
+      "subtitle": "¾ÖÓòÍø×÷Æ·ÓëÎÄ¼þ´«ËÍ",
+      "localizedDescription": "ÓÃÓÚ½ÓÊÕ×÷Æ·¡¢²é¿´ÄÚÈÝºÍÏòµçÄÔ´«ËÍÎÄ¼þµÄ×ÔÓÃ iPhone ¿Í»§¶Ë¡£",
+      "iconURL": "https://github.com/zwmopen.png?size=512",
+      "tintColor": "#4F9D69",
+      "category": "photo-video",
+      "versions": [
+        {
+          "version": "0.6.22",
+          "buildVersion": "41",
+          "date": "2026-08-22T03:19:24Z",
+          "localizedDescription": "ÔÆ¶Ë¸üÐÂ£º0.6.22£¨build 41£©¡£",
+          "downloadURL": "https://github.com/zwmopen/gallery-updates/releases/download/v0.6.35-beta.1/album-iOS-v0.6.22-altstore.ipa",
+          "size": 22882233,
+          "sha256": "a6b5582b286bf71c6cf1afbb2e9486768a671d99d3f0487dedd25badb11fea11"
+        },
+        {
+          "version": "0.6.16",
+          "buildVersion": "35",
+          "date": "2026-08-20T08:52:49Z",
+          "localizedDescription": "äº‘ç«¯æ›´æ–°ï¼š0.6.16ï¼ˆbuild 35ï¼‰ã€‚",
+          "downloadURL": "https://github.com/zwmopen/gallery-updates/releases/download/v0.6.29/album-iOS-v0.6.16-altstore.ipa",
+          "size": 16907535,
+          "sha256": "5e38d3cd215b0125559b91778be19be9e491226c538e21cefd4e7816695c1bca"
+        },
+        {
+          "version": "0.6.15",
+          "buildVersion": "34",
+          "date": "2026-08-20T05:03:07Z",
+          "localizedDescription": "äº‘ç«¯æ›´æ–°ï¼š0.6.15ï¼ˆbuild 34ï¼‰ã€‚",
+          "downloadURL": "https://github.com/zwmopen/gallery-updates/releases/download/v0.6.28/album-iOS-v0.6.15-altstore.ipa",
+          "size": 16904580,
+          "sha256": "3fa49ba0ff487ad4430a98c877782450cef4c747aecd87394b33f489e1832ce9"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSLocalNetworkUsageDescription": "ÓÃÓÚÈÃÍ¬Ò» Wi-Fi µÄËØ²ÄÍ¶ËÍÖÐ¿Ø×Ô¶¯·¢ÏÖÕâÌ¨ iPhone£¬²¢°ÑÎÄ¼þÖ±½Ó´«ÈëËùÑ¡×÷Æ·ÎÄ¼þ¼Ð¡£"
+        }
+      }
+    }
+  ],
+  "news": []
+}
