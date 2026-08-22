@@ -1,15 +1,15 @@
 {
-  "name": "Ïà²á¸üĞÂÔ´",
-  "subtitle": "Ïà²á iPhone ×ÔÓÃ²àÔØ¸üĞÂ",
-  "description": "Ïà²á iPhone ¿Í»§¶ËµÄ AltStore ¸üĞÂÔ´¡£Ê×´ÎÌí¼Óºó£¬ºóĞøÔÆ¶Ë·¢²¼µÄĞÂ°æ±¾»á×Ô¶¯±» AltStore ·¢ÏÖ¡£",
+  "name": "ç›¸å†Œæ›´æ–°æº",
+  "subtitle": "ç›¸å†Œ iPhone è‡ªç”¨ä¾§è½½æ›´æ–°",
+  "description": "ç›¸å†Œ iPhone å®¢æˆ·ç«¯çš„ AltStore æ›´æ–°æºã€‚é¦–æ¬¡æ·»åŠ åï¼Œåç»­äº‘ç«¯å‘å¸ƒçš„æ–°ç‰ˆæœ¬ä¼šè‡ªåŠ¨è¢« AltStore å‘ç°ã€‚",
   "iconURL": "https://github.com/zwmopen.png?size=512",
   "apps": [
     {
-      "name": "Ïà²á",
+      "name": "ç›¸å†Œ",
       "bundleIdentifier": "com.zwm.album",
       "developerName": "zwmopen",
-      "subtitle": "¾ÖÓòÍø×÷Æ·ÓëÎÄ¼ş´«ËÍ",
-      "localizedDescription": "ÓÃÓÚ½ÓÊÕ×÷Æ·¡¢²é¿´ÄÚÈİºÍÏòµçÄÔ´«ËÍÎÄ¼şµÄ×ÔÓÃ iPhone ¿Í»§¶Ë¡£",
+      "subtitle": "å±€åŸŸç½‘ä½œå“ä¸æ–‡ä»¶ä¼ é€",
+      "localizedDescription": "ç”¨äºæ¥æ”¶ä½œå“ã€æŸ¥çœ‹å†…å®¹å’Œå‘ç”µè„‘ä¼ é€æ–‡ä»¶çš„è‡ªç”¨ iPhone å®¢æˆ·ç«¯ã€‚",
       "iconURL": "https://github.com/zwmopen.png?size=512",
       "tintColor": "#4F9D69",
       "category": "photo-video",
@@ -18,7 +18,7 @@
           "version": "0.6.22",
           "buildVersion": "41",
           "date": "2026-08-22T03:19:24Z",
-          "localizedDescription": "ÔÆ¶Ë¸üĞÂ£º0.6.22£¨build 41£©¡£",
+          "localizedDescription": "äº‘ç«¯æ›´æ–°ï¼š0.6.22ï¼ˆbuild 41ï¼‰ã€‚",
           "downloadURL": "https://github.com/zwmopen/gallery-updates/releases/download/v0.6.35-beta.1/album-iOS-v0.6.22-altstore.ipa",
           "size": 22882233,
           "sha256": "a6b5582b286bf71c6cf1afbb2e9486768a671d99d3f0487dedd25badb11fea11"
@@ -45,7 +45,7 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {
-          "NSLocalNetworkUsageDescription": "ÓÃÓÚÈÃÍ¬Ò» Wi-Fi µÄËØ²ÄÍ¶ËÍÖĞ¿Ø×Ô¶¯·¢ÏÖÕâÌ¨ iPhone£¬²¢°ÑÎÄ¼şÖ±½Ó´«ÈëËùÑ¡×÷Æ·ÎÄ¼ş¼Ğ¡£"
+          "NSLocalNetworkUsageDescription": "ç”¨äºè®©åŒä¸€ Wi-Fi çš„ç´ ææŠ•é€ä¸­æ§è‡ªåŠ¨å‘ç°è¿™å° iPhoneï¼Œå¹¶æŠŠæ–‡ä»¶ç›´æ¥ä¼ å…¥æ‰€é€‰ä½œå“æ–‡ä»¶å¤¹ã€‚"
         }
       }
     }
