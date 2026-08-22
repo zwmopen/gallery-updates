@@ -15,6 +15,15 @@
       "category": "photo-video",
       "versions": [
         {
+          "version": "0.6.27",
+          "buildVersion": "46",
+          "date": "2026-08-22T08:00:16Z",
+          "localizedDescription": "删除 Android 遗留媒体读取权限；Beta 构建",
+          "downloadURL": "https://github.com/zwmopen/gallery-updates/releases/download/v0.6.40-beta.1/album-iOS-v0.6.27-altstore.ipa",
+          "size": 22884871,
+          "sha256": "98d671107d6ad686870fcebdd1f64a0198960e14276cd532ac2b6baeabbbd61f"
+        },
+        {
           "version": "0.6.26",
           "buildVersion": "45",
           "date": "2026-08-22T07:11:27Z",
