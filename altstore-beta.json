@@ -1,15 +1,23 @@
 {
   "name": "相册更新源",
   "subtitle": "相册 iPhone 自用侧载更新",
-  "description": "相册 iPhone 客户端的 AltStore 更新源。首次添加后，后续云端发布的新版本会自动被 AltStore 发现。",
+  "description": "相册 iPhone 客户端的 AltStore 更新源。包名：com.zwm.album。",
   "iconURL": "https://github.com/zwmopen.png?size=512",
+  "news": [
+    {
+      "title": "相册 0.6.41 更新",
+      "identifier": "album-0.6.41-build60",
+      "caption": "包名：com.zwm.album。更新日志已统一为 UTF-8 中文。",
+      "date": "2026-08-25T04:27:11Z"
+    }
+  ],
   "apps": [
     {
       "name": "相册",
       "bundleIdentifier": "com.zwm.album",
       "developerName": "zwmopen",
       "subtitle": "局域网作品与文件传送",
-      "localizedDescription": "用于接收作品、查看内容和向电脑传送文件的自用 iPhone 客户端。",
+      "localizedDescription": "用于接收作品、查看内容和向电脑传送文件的自用 iPhone 客户端。包名：com.zwm.album。",
       "iconURL": "https://github.com/zwmopen.png?size=512",
       "tintColor": "#4F9D69",
       "category": "photo-video",
@@ -17,200 +25,19 @@
         {
           "version": "0.6.41",
           "buildVersion": "60",
-          "date": "2026-08-25T03:20:26Z",
-          "localizedDescription": "云端更新：0.6.41（build 60）。",
-          "downloadURL": "https://github.com/zwmopen/gallery-updates/releases/download/v0.6.55-beta.1/album-iOS-v0.6.41-altstore.ipa",
+          "date": "2026-08-25T04:27:11Z",
+          "localizedDescription": "相册 App 更新：0.6.41（build 60）。包名：com.zwm.album。统一移动端更新入口。",
+          "downloadURL": "https://github.com/zwmopen/gallery-updates/releases/download/v0.6.55/album-iOS-v0.6.41-altstore.ipa",
           "size": 22896008,
           "sha256": "e31f84b7e412766b59b7356a1cf615413cf73423b3f6f0c44e4759de446c219b"
-        },
-        {
-          "version": "0.6.40",
-          "buildVersion": "59",
-          "date": "2026-08-23T01:36:17Z",
-          "localizedDescription": "云端更新：0.6.40（build 59）。",
-          "downloadURL": "https://github.com/zwmopen/gallery-updates/releases/download/v0.6.53-beta.1/album-iOS-v0.6.40-altstore.ipa",
-          "size": 22891055,
-          "sha256": "f44bb11f334f76a71d483c0a7077d933108315243e22af06c4ddb276879c240a"
-        },
-        {
-          "version": "0.6.39",
-          "buildVersion": "58",
-          "date": "2026-08-23T00:57:00Z",
-          "localizedDescription": "云端更新：0.6.39（build 58）。",
-          "downloadURL": "https://github.com/zwmopen/gallery-updates/releases/download/v0.6.52-beta.1/album-iOS-v0.6.39-altstore.ipa",
-          "size": 22891056,
-          "sha256": "9a23372e1023c461098df41e3307af96d975f92716cf684f42b0e0fb2436370a"
-        },
-        {
-          "version": "0.6.38",
-          "buildVersion": "57",
-          "date": "2026-08-22T23:15:28Z",
-          "localizedDescription": "云端更新：0.6.38（build 57）。",
-          "downloadURL": "https://github.com/zwmopen/gallery-updates/releases/download/v0.6.51-beta.1/album-iOS-v0.6.38-altstore.ipa",
-          "size": 22890492,
-          "sha256": "d60bf85d2d255b70c78a7b4da2591c0d4c4a639725621c7ad5760f73310e4a34"
-        },
-        {
-          "version": "0.6.37",
-          "buildVersion": "56",
-          "date": "2026-08-22T20:48:50.1776354Z",
-          "localizedDescription": "新增远程中继 HTTPS 代理配置并修复 Windows 版本标识；Beta 0.6.37（build 56）。",
-          "downloadURL": "https://github.com/zwmopen/gallery-updates/releases/download/v0.6.50-beta.1/album-iOS-v0.6.37-altstore.ipa",
-          "size": 22890494,
-          "sha256": "6cfaa0f7e7db5bf544cdbf172f663d06e9f6c0b06b1ffe59dae9568615dfe2e0"
-        },
-        {
-          "version": "0.6.36",
-          "buildVersion": "55",
-          "date": "2026-08-22T20:06:15.603271Z",
-          "localizedDescription": "修复 P2P 成功后的信令会话清理；Beta 0.6.36（build 55）。",
-          "downloadURL": "https://github.com/zwmopen/gallery-updates/releases/download/v0.6.49-beta.1/album-iOS-v0.6.36-altstore.ipa",
-          "size": 22890492,
-          "sha256": "4687f0fa1163c428e06610ce10fc8edcb367530274288f6c9467b7f76e24edca"
-        },
-        {
-          "version": "0.6.35",
-          "buildVersion": "54",
-          "date": "2026-08-22T19:35:32Z",
-          "localizedDescription": "修复 iOS P2P ICE 候选竞态并统一版本元数据；Beta 0.6.35（build 54）。",
-          "downloadURL": "https://github.com/zwmopen/gallery-updates/releases/download/v0.6.48-beta.1/album-iOS-v0.6.35-altstore.ipa",
-          "size": 22890476,
-          "sha256": "2ad5da8a18d7b62565812d6d9c81cdb164f204605354a4686c8db2244e06921b"
-        },
-        {
-          "version": "0.6.34",
-          "buildVersion": "53",
-          "date": "2026-08-23T02:00:00Z",
-          "localizedDescription": "云端更新：0.6.34（build 53）。",
-          "downloadURL": "https://github.com/zwmopen/gallery-updates/releases/download/v0.6.47-beta.1/album-iOS-v0.6.34-altstore.ipa",
-          "size": 22890195,
-          "sha256": "6e2e34a9ec46c4e013a6beeaefd2913d9c685c5674c6f06e47e12c0601e11a88"
-        },
-        {
-          "version": "0.6.33",
-          "buildVersion": "52",
-          "date": "2026-08-22T17:12:33Z",
-          "localizedDescription": "�ƶ˸��£�0.6.33��build 52����",
-          "downloadURL": "https://github.com/zwmopen/gallery-updates/releases/download/v0.6.46-beta.1/album-iOS-v0.6.33-altstore.ipa",
-          "size": 22887701,
-          "sha256": "d1953c1e8dc5b0ff6851d62c8eecbc3bba663b51341e01bffac8ace70b9e4f6f"
-        },
-        {
-          "version": "0.6.32",
-          "buildVersion": "51",
-          "date": "2026-08-22T15:42:00Z",
-          "localizedDescription": "修复自动更新失败后无法重试，并补齐精准流量/泛流量库存信标；Beta 构建 0.6.32/build 51。",
-          "downloadURL": "https://github.com/zwmopen/gallery-updates/releases/download/v0.6.45-beta.2/album-iOS-v0.6.32-altstore.ipa",
-          "size": 22885725,
-          "sha256": "19e1ab04cc83ac0f0df573c03c52dd6167a267d776af3408013f0b75cd01a52d"
-        },
-        {
-          "version": "0.6.31",
-          "buildVersion": "50",
-          "date": "2026-08-22T13:26:59Z",
-          "localizedDescription": "修复 P2P ACK 丢失后的重复入库；Beta 构建 0.6.31/build 50。",
-          "downloadURL": "https://github.com/zwmopen/gallery-updates/releases/download/v0.6.44-beta.1/album-iOS-v0.6.31-altstore.ipa",
-          "size": 22885102,
-          "sha256": "1db6768df098beb2c8924d5b7fb0b923d81ff53678b840bc297787fe1cd25c92"
-        },
-        {
-          "version": "0.6.30",
-          "buildVersion": "49",
-          "date": "2026-08-22T12:14:51Z",
-          "localizedDescription": "�ƶ˸��£�0.6.30��build 49����",
-          "downloadURL": "https://github.com/zwmopen/gallery-updates/releases/download/v0.6.43-beta.1/album-iOS-v0.6.30-altstore.ipa",
-          "size": 22884871,
-          "sha256": "5e8de6ef4fa435d19b361b889b791b9b8ded80989af4e6a7ca08dd15587214e5"
-        },
-        {
-          "version": "0.6.29",
-          "buildVersion": "48",
-          "date": "2026-08-22T09:54:29Z",
-          "localizedDescription": "修复 Android P2P ICE 候选竞态；Beta 构建",
-          "downloadURL": "https://github.com/zwmopen/gallery-updates/releases/download/v0.6.42-beta.1/album-iOS-v0.6.29-altstore.ipa",
-          "size": 22884871,
-          "sha256": "716730f02c949338bb923fd28485f053d4856897d4795088eae35496ae362017"
-        },
-        {
-          "version": "0.6.28",
-          "buildVersion": "47",
-          "date": "2026-08-22T08:43:06Z",
-          "localizedDescription": "修复 Android P2P 跨线程状态可见性；Beta 构建",
-          "downloadURL": "https://github.com/zwmopen/gallery-updates/releases/download/v0.6.41-beta.1/album-iOS-v0.6.28-altstore.ipa",
-          "size": 22884871,
-          "sha256": "b03f6fa4ba9830b88f059fc1a5fe41f07d4b24d8e852ec6049c7e77e4a28deed"
-        },
-        {
-          "version": "0.6.27",
-          "buildVersion": "46",
-          "date": "2026-08-22T08:00:16Z",
-          "localizedDescription": "删除 Android 遗留媒体读取权限；Beta 构建",
-          "downloadURL": "https://github.com/zwmopen/gallery-updates/releases/download/v0.6.40-beta.1/album-iOS-v0.6.27-altstore.ipa",
-          "size": 22884871,
-          "sha256": "98d671107d6ad686870fcebdd1f64a0198960e14276cd532ac2b6baeabbbd61f"
-        },
-        {
-          "version": "0.6.26",
-          "buildVersion": "45",
-          "date": "2026-08-22T07:11:27Z",
-          "localizedDescription": "修复 Android P2P 会话启动失败后的重试回收；Beta 构建",
-          "downloadURL": "https://github.com/zwmopen/gallery-updates/releases/download/v0.6.39-beta.1/album-iOS-v0.6.26-altstore.ipa",
-          "size": 22884871,
-          "sha256": "189cd17b4904dd97b8fa750559fcb6eeabb018a3274c1367967c2534339b8506"
-        },
-        {
-          "version": "0.6.25",
-          "buildVersion": "44",
-          "date": "2026-08-22T06:35:11Z",
-          "localizedDescription": "修复 P2P 接收端建连超时与 Android 传输线程；Beta 构建",
-          "downloadURL": "https://github.com/zwmopen/gallery-updates/releases/download/v0.6.38-beta.1/album-iOS-v0.6.25-altstore.ipa",
-          "size": 22884871,
-          "sha256": "14920197a1811a144be995be9eb8f082245a0cd1d54df0a7f0799aa76b5f12e2"
-        },
-        {
-          "version": "0.6.24",
-          "buildVersion": "43",
-          "date": "2026-08-22T05:13:40Z",
-          "localizedDescription": "修复 P2P 失败会话回收；Beta 构建",
-          "downloadURL": "https://github.com/zwmopen/gallery-updates/releases/download/v0.6.37-beta.1/album-iOS-v0.6.24-altstore.ipa",
-          "size": 22884124,
-          "sha256": "44d768c2f401ba25e926bbec4b769094d4695a9732359fcfc986fd806bcdeb"
-        },
-        {
-          "version": "0.6.23",
-          "buildVersion": "42",
-          "date": "2026-08-22T04:02:00Z",
-          "localizedDescription": "云端更新：0.6.23（build 42）。",
-          "downloadURL": "https://github.com/zwmopen/gallery-updates/releases/download/v0.6.36-beta.1/album-iOS-v0.6.23-altstore.ipa",
-          "size": 22882855,
-          "sha256": "7e6854d5df380631bc5d89939c7538ee8be5d977cae98c9051b791266d7ffca5"
-        },
-        {
-          "version": "0.6.16",
-          "buildVersion": "35",
-          "date": "2026-08-20T08:52:49Z",
-          "localizedDescription": "云端更新：0.6.16（build 35）。",
-          "downloadURL": "https://github.com/zwmopen/gallery-updates/releases/download/v0.6.29/album-iOS-v0.6.16-altstore.ipa",
-          "size": 16907535,
-          "sha256": "5e38d3cd215b0125559b91778be19be9e491226c538e21cefd4e7816695c1bca"
-        },
-        {
-          "version": "0.6.15",
-          "buildVersion": "34",
-          "date": "2026-08-20T05:03:07Z",
-          "localizedDescription": "云端更新：0.6.15（build 34）。",
-          "downloadURL": "https://github.com/zwmopen/gallery-updates/releases/download/v0.6.28/album-iOS-v0.6.15-altstore.ipa",
-          "size": 16904580,
-          "sha256": "3fa49ba0ff487ad4430a98c877782450cef4c747aecd87394b33f489e1832ce9"
         }
       ],
       "appPermissions": {
         "entitlements": [],
         "privacy": {
-          "NSLocalNetworkUsageDescription": "用于让同一 Wi-Fi 的素材投送中控自动发现这台 iPhone，并把文件直接传入所选作品文件夹。"
+          "NSLocalNetworkUsageDescription": "用于让同一 Wi-Fi 的素材投送中控自动发现这台 iPhone。"
         }
       }
     }
-  ],
-  "news": []
+  ]
 }
