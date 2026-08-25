@@ -212,5 +212,12 @@
       }
     }
   ],
-  "news": []
+  "news": [
+    {
+      "title": "相册 0.6.41 更新",
+      "identifier": "album-0.6.41-build60",
+      "caption": "包名：com.zwm.album。更新日志已统一为 UTF-8 中文。",
+      "date": "2026-08-25T04:25:13Z"
+    }
+  ]
 }
