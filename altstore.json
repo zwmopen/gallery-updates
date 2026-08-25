@@ -1,7 +1,7 @@
 {
   "name": "相册更新源",
   "subtitle": "相册 iPhone 自用侧载更新",
-  "description": "相册 iPhone 客户端的 AltStore 更新源。包名：com.zwm.album。",
+  "description": "相册 iPhone 客户端的 AltStore 更新源。首次添加后，后续云端发布的新版本会自动被 AltStore 发现。",
   "iconURL": "https://github.com/zwmopen.png?size=512",
   "news": [
     {
@@ -17,7 +17,7 @@
       "bundleIdentifier": "com.zwm.album",
       "developerName": "zwmopen",
       "subtitle": "局域网作品与文件传送",
-      "localizedDescription": "用于接收作品、查看内容和向电脑传送文件的自用 iPhone 客户端。包名：com.zwm.album。",
+      "localizedDescription": "用于接收作品、查看内容和向电脑传送文件的自用 iPhone 客户端。",
       "iconURL": "https://github.com/zwmopen.png?size=512",
       "tintColor": "#4F9D69",
       "category": "photo-video",
@@ -25,17 +25,17 @@
         {
           "version": "0.6.41",
           "buildVersion": "60",
-          "date": "2026-08-25T04:27:11Z",
-          "localizedDescription": "相册 App 更新：0.6.41（build 60）。包名：com.zwm.album。统一移动端更新入口。",
-          "downloadURL": "https://github.com/zwmopen/gallery-updates/releases/download/v0.6.55/album-iOS-v0.6.41-altstore.ipa",
-          "size": 22896008,
-          "sha256": "e31f84b7e412766b59b7356a1cf615413cf73423b3f6f0c44e4759de446c219b"
+          "date": "2026-08-25T07:20:04Z",
+          "localizedDescription": "云端更新：0.6.41（build 60）。",
+          "downloadURL": "https://github.com/zwmopen/gallery-updates/releases/download/v0.6.58/album-iOS-v0.6.41-altstore.ipa",
+          "size": 22892561,
+          "sha256": "20cb046f6fcaccbffb3fb3e41441ade54e254ec81560ac2a25b6e54677a0732c"
         }
       ],
       "appPermissions": {
         "entitlements": [],
         "privacy": {
-          "NSLocalNetworkUsageDescription": "用于让同一 Wi-Fi 的素材投送中控自动发现这台 iPhone。"
+          "NSLocalNetworkUsageDescription": "用于让同一 Wi-Fi 的素材投送中控自动发现这台 iPhone，并把文件直接传入所选作品文件夹。"
         }
       }
     }
