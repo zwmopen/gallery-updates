@@ -23,13 +23,40 @@
       "category": "photo-video",
       "versions": [
         {
+          "version": "0.6.45",
+          "buildVersion": "64",
+          "date": "2026-08-27T03:36:35Z",
+          "localizedDescription": "云端更新：0.6.45（build 64）。",
+          "downloadURL": "https://github.com/zwmopen/gallery-updates/releases/download/v0.6.62/album-iOS-v0.6.45-altstore.ipa",
+          "size": 22909193,
+          "sha256": "cae9c6739bed206703c9669a97930f4955738b2fbc67f912acdf413a16677ca2"
+        },
+        {
+          "version": "0.6.44",
+          "buildVersion": "63",
+          "date": "2026-08-26T09:54:16Z",
+          "localizedDescription": "云端更新：0.6.44（build 63）。",
+          "downloadURL": "https://github.com/zwmopen/gallery-updates/releases/download/v0.6.61/album-iOS-v0.6.44-altstore.ipa",
+          "size": 22903608,
+          "sha256": "59552fba0017a177ea8afc1c51aa2fa96bd0c7fa39bd2e431e54bda5b46abde6"
+        },
+        {
+          "version": "0.6.42",
+          "buildVersion": "61",
+          "date": "2026-08-26T02:39:05Z",
+          "localizedDescription": "云端更新：0.6.42（build 61）。",
+          "downloadURL": "https://github.com/zwmopen/gallery-updates/releases/download/v0.6.59/album-iOS-v0.6.42-altstore.ipa",
+          "size": 22898301,
+          "sha256": "ee9194ea66e1bab994895b6e976359c1c8ba43c51b6f7ac1965b52a9a4dab75b"
+        },
+        {
           "version": "0.6.41",
           "buildVersion": "60",
-          "date": "2026-08-25T06:57:26Z",
+          "date": "2026-08-25T07:20:04Z",
           "localizedDescription": "云端更新：0.6.41（build 60）。",
-          "downloadURL": "https://github.com/zwmopen/gallery-updates/releases/download/v0.6.57-beta.1/album-iOS-v0.6.41-altstore.ipa",
-          "size": 22896008,
-          "sha256": "db9c4d7c5a8d9c88c2a875326f49d06f97cf4007742e2f122c1c997e174a24de"
+          "downloadURL": "https://github.com/zwmopen/gallery-updates/releases/download/v0.6.58/album-iOS-v0.6.41-altstore.ipa",
+          "size": 22892561,
+          "sha256": "20cb046f6fcaccbffb3fb3e41441ade54e254ec81560ac2a25b6e54677a0732c"
         }
       ],
       "appPermissions": {
