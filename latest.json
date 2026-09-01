@@ -1,16 +1,16 @@
 {
-  "sha256": "e9e18e11c6af23be36f1c8df9bfc5a5715a5f256cefc148c821cff8751f50819",
-  "apk_url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.7.0/album-Android-v0.7.0.apk",
+  "sha256": "d55f3960cb0998404423add6dac0f2a5933fbac63bbc7f901a87a875cec8fd2b",
+  "apk_url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.7.1/album-Android-v0.7.1.apk",
   "ios": {
     "version_name": "0.7.0",
     "build": 65,
-    "sha256": "aa3b6bccc6dc471ec59d2a7ac3034476a7c97c5395c942466b4b6e543749b6f5",
-    "ipa_url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.7.0/album-iOS-v0.7.0-altstore.ipa",
+    "sha256": "242cd97273936cee98aef7cdb2f2aab325a4e9159db994a8246493b14c73567a",
+    "ipa_url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.7.1/album-iOS-v0.7.0-altstore.ipa",
     "ipa_file_name": "album-iOS-v0.7.0-altstore.ipa",
-    "release_url": "https://github.com/zwmopen/gallery-updates/releases/tag/v0.7.0"
+    "release_url": "https://github.com/zwmopen/gallery-updates/releases/tag/v0.7.1"
   },
-  "version_code": 101,
-  "tag_name": "v0.7.0",
-  "html_url": "https://github.com/zwmopen/gallery-updates/releases/tag/v0.7.0",
-  "version_name": "0.7.0"
+  "version_code": 102,
+  "tag_name": "v0.7.1",
+  "html_url": "https://github.com/zwmopen/gallery-updates/releases/tag/v0.7.1",
+  "version_name": "0.7.1"
 }
