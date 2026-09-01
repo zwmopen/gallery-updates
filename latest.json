@@ -12,5 +12,9 @@
   "version_code": 102,
   "tag_name": "v0.7.1",
   "html_url": "https://github.com/zwmopen/gallery-updates/releases/tag/v0.7.1",
-  "version_name": "0.7.1"
+  "version_name": "0.7.1",
+  "versionCode": 102,
+  "versionName": "0.7.1",
+  "notes": "1. 全屏大图支持左右横滑极速切图\n2. 序号胶囊移至底部居中\n3. 全机型三大金刚键动态避让\n4. 大图预览点击✕直接一步返回主页",
+  "url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.7.1/album-Android-v0.7.1.apk"
 }
