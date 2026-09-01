@@ -23,13 +23,14 @@
       "category": "photo-video",
       "versions": [
         {
-          "version": "0.7.0",
+          "version": "0.7.1",
           "buildVersion": "65",
           "date": "2026-09-01T16:01:14Z",
           "localizedDescription": "云端更新：0.7.0（build 65）。",
-          "downloadURL": "https://github.com/zwmopen/gallery-updates/releases/download/v0.7.1/album-iOS-v0.7.0-altstore.ipa",
+          "downloadURL": "https://github.com/zwmopen/gallery-updates/releases/download/v0.7.1/album-iOS-v0.7.1-altstore.ipa",
           "size": 22130892,
-          "sha256": "570978db4b5fc54c83b01b3cc2d9c8cee1fbcd79926dae94706390b3e79fd5c7"
+          "sha256": "570978db4b5fc54c83b01b3cc2d9c8cee1fbcd79926dae94706390b3e79fd5c7",
+          "versionDescription": "消除卡片多余空白，沉浸式全屏预览与手势切图"
         },
         {
           "version": "0.6.45",
@@ -73,7 +74,11 @@
         "privacy": {
           "NSLocalNetworkUsageDescription": "用于让同一 Wi-Fi 的素材投送中控自动发现这台 iPhone，并把文件直接传入所选作品文件夹。"
         }
-      }
+      },
+      "version": "0.7.1",
+      "versionDate": "2026-09-01T23:59:00Z",
+      "versionDescription": "1. 消除首页卡片多余空白，与安卓端100%对齐\n2. 沉浸式全屏模态预览，支持左右横滑切图\n3. 底部居中序号胶囊与42pt单级直退按钮",
+      "downloadURL": "https://github.com/zwmopen/gallery-updates/releases/download/v0.7.1/album-iOS-v0.7.1-altstore.ipa"
     }
   ]
 }
