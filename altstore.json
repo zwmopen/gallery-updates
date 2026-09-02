@@ -1,7 +1,7 @@
 {
-  "name": "相册分发更新源",
-  "subtitle": "为 iPhone 提供相册客户端更新",
-  "description": "提供相册客户端 AltStore 更新源。",
+  "name": "相册更新源",
+  "subtitle": "相册 iPhone 自用侧载更新",
+  "description": "相册 iPhone 客户端的 AltStore 更新源。首次添加后，后续云端发布的新版本会自动被 AltStore 发现。",
   "iconURL": "https://github.com/zwmopen.png?size=512",
   "news": [
     {
@@ -16,8 +16,8 @@
       "name": "相册",
       "bundleIdentifier": "com.zwm.album",
       "developerName": "zwmopen",
-      "subtitle": "作品分发与相册客户端",
-      "localizedDescription": "用于接收并查看作品内容和多媒体文件的 iPhone 客户端。",
+      "subtitle": "局域网作品与文件传送",
+      "localizedDescription": "用于接收作品、查看内容和向电脑传送文件的自用 iPhone 客户端。",
       "iconURL": "https://github.com/zwmopen.png?size=512",
       "tintColor": "#4F9D69",
       "category": "photo-video",
@@ -25,8 +25,8 @@
         {
           "version": "0.7.1",
           "buildVersion": "66",
-          "date": "2026-09-02T00:40:00Z",
-          "localizedDescription": "1. 消除卡片多余留白，高度收紧至172pt紧凑黄金比例\n2. 纯黑全屏模态大图预览，支持左右横滑切图\n3. 底部正中序号胶囊与42pt单级直退按钮",
+          "date": "2026-09-02T02:20:07Z",
+          "localizedDescription": "云端更新：0.7.1（build 66）。",
           "downloadURL": "https://github.com/zwmopen/gallery-updates/releases/download/v0.7.1/album-iOS-v0.7.1-altstore.ipa",
           "size": 22130713,
           "sha256": "d5c9d57c26511cfb1021b6bc4082e59b6c553f7e8e236371af82e3efea216c47"
@@ -44,7 +44,7 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {
-          "NSLocalNetworkUsageDescription": "在同一 Wi-Fi 下自动发现中控台并接收作品。"
+          "NSLocalNetworkUsageDescription": "用于让同一 Wi-Fi 的素材投送中控自动发现这台 iPhone，并把文件直接传入所选作品文件夹。"
         }
       }
     }
