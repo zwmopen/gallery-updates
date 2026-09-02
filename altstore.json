@@ -28,8 +28,8 @@
           "date": "2026-09-02T00:40:00Z",
           "localizedDescription": "1. 消除卡片多余留白，高度收紧至172pt紧凑黄金比例\n2. 纯黑全屏模态大图预览，支持左右横滑切图\n3. 底部正中序号胶囊与42pt单级直退按钮",
           "downloadURL": "https://github.com/zwmopen/gallery-updates/releases/download/v0.7.1/album-iOS-v0.7.1-altstore.ipa",
-          "size": 22130713,
-          "sha256": "aef313b38a7ec16fe299ba37f1db000dc488371842586d60a18bfc55917401dd"
+          "size": 22130892,
+          "sha256": "570978db4b5fc54c83b01b3cc2d9c8cee1fbcd79926dae94706390b3e79fd5c7"
         },
         {
           "version": "0.6.45",
