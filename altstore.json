@@ -25,11 +25,11 @@
         {
           "version": "0.7.1",
           "buildVersion": "66",
-          "date": "2026-09-03T04:50:50Z",
+          "date": "2026-09-03T05:53:35Z",
           "localizedDescription": "云端更新：0.7.1（build 66）。",
-          "downloadURL": "https://github.com/zwmopen/gallery-updates/releases/download/v0.7.2/album-iOS-v0.7.1-altstore.ipa",
+          "downloadURL": "https://github.com/zwmopen/gallery-updates/releases/download/v0.7.3/album-iOS-v0.7.1-altstore.ipa",
           "size": 22130713,
-          "sha256": "905ee47e4e0a1d2996b384adf09bc2df9598127ecf71a9ba9ba1eab24e5e3ff6"
+          "sha256": "d28af7313d92b211cd3993176f948bd26a564d455e6b5a6be283badf525d94e3"
         },
         {
           "version": "0.6.45",
