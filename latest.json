@@ -1,18 +1,18 @@
 {
-  "sha256": "901c84aaa0cb310ac19a203264d6899e480fe884450187ab93ee31c7cce0d6e6",
-  "apk_url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.7.3/album-Android-v0.7.3.apk",
+  "sha256": "c4fe2fd40159fd7a4fa014dbb1c35a8e8543fb4143030649773e18f8838f2bca",
+  "apk_url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.7.4/album-Android-v0.7.4.apk",
   "ios": {
     "version_name": "0.7.1",
     "build": 66,
-    "sha256": "463a9a33e817f20141354af21839462ecf2eaf62cba8eb178acfd052f39bce27",
-    "ipa_url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.7.3/album-iOS-v0.7.1-altstore.ipa",
+    "sha256": "d0b67c62911d82ca8f782613ed6b1eb88a0ceb2669b34cf51d81972a6a4f7872",
+    "ipa_url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.7.4/album-iOS-v0.7.1-altstore.ipa",
     "ipa_file_name": "album-iOS-v0.7.1-altstore.ipa",
-    "release_url": "https://github.com/zwmopen/gallery-updates/releases/tag/v0.7.3"
+    "release_url": "https://github.com/zwmopen/gallery-updates/releases/tag/v0.7.4"
   },
-  "version_code": 104,
-  "tag_name": "v0.7.3",
-  "html_url": "https://github.com/zwmopen/gallery-updates/releases/tag/v0.7.3",
-  "version_name": "0.7.3",
+  "version_code": 105,
+  "tag_name": "v0.7.4",
+  "html_url": "https://github.com/zwmopen/gallery-updates/releases/tag/v0.7.4",
+  "version_name": "0.7.4",
   "versionCode": 102,
   "versionName": "0.7.1",
   "notes": "1. 全屏大图支持左右横滑极速切图\n2. 序号胶囊移至底部居中\n3. 全机型三大金刚键动态避让\n4. 大图预览点击✕直接一步返回主页",
