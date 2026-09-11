@@ -13,8 +13,8 @@
   "tag_name": "v0.8.3",
   "html_url": "https://github.com/zwmopen/gallery-updates/releases/tag/v0.8.3",
   "version_name": "0.8.3",
-  "versionCode": 102,
-  "versionName": "0.7.1",
-  "notes": "1. 全屏大图支持左右横滑极速切图\n2. 序号胶囊移至底部居中\n3. 全机型三大金刚键动态避让\n4. 大图预览点击✕直接一步返回主页",
-  "url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.7.1/album-Android-v0.7.1.apk"
+  "versionCode": 114,
+  "versionName": "0.8.3",
+  "notes": "修复手机端复制会话元数据而非正文：统一隔离会话追踪、生产记录、质量报告、标签和日志类文本。",
+  "url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.3/album-Android-v0.8.3.apk"
 }
