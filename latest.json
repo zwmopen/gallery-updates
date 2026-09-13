@@ -1,20 +1,20 @@
 {
-  "sha256": "e0fd0e3fd83abb60a1f02dd95bb43de019fefc925128372f3a5fb092a43a85fc",
-  "apk_url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.4/album-Android-v0.8.4.apk",
+  "sha256": "4e8e29d7263c89863ac811c6f8d4261da6a82c711d41b29a8dd98a296f0002f6",
+  "apk_url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.8/album-Android-v0.8.8.apk",
   "ios": {
     "version_name": "0.8.3",
     "build": 74,
-    "sha256": "b1887b4d3b86fe0d441d62e3054fb8279c59a946cbf1c208cdb3b95b00749b00",
-    "ipa_url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.3/album-iOS-v0.8.3-altstore.ipa",
+    "sha256": "8ca93f5fcb779fe8cfa594a1d29bac31c4101d9e5b968e3923f5b387c4474768",
+    "ipa_url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.8/album-iOS-v0.8.3-altstore.ipa",
     "ipa_file_name": "album-iOS-v0.8.3-altstore.ipa",
-    "release_url": "https://github.com/zwmopen/gallery-updates/releases/tag/v0.8.3"
+    "release_url": "https://github.com/zwmopen/gallery-updates/releases/tag/v0.8.8"
   },
-  "version_code": 115,
-  "tag_name": "v0.8.4",
-  "html_url": "https://github.com/zwmopen/gallery-updates/releases/tag/v0.8.4",
-  "version_name": "0.8.4",
-  "versionCode": 115,
-  "versionName": "0.8.4",
+  "version_code": 119,
+  "tag_name": "v0.8.8",
+  "html_url": "https://github.com/zwmopen/gallery-updates/releases/tag/v0.8.8",
+  "version_name": "0.8.8",
+  "versionCode": 119,
+  "versionName": "0.8.8",
   "notes": "纯内网极简瘦身版：彻底剥离海外远程穿透依赖，安装包从 48.6MB 缩减至 805KB，连接自动比对版本并推送。",
-  "url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.4/album-Android-v0.8.4.apk"
+  "url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.8/album-Android-v0.8.8.apk"
 }
