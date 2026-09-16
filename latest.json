@@ -1,20 +1,20 @@
 {
-  "sha256": "4e8e29d7263c89863ac811c6f8d4261da6a82c711d41b29a8dd98a296f0002f6",
-  "apk_url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.8/album-Android-v0.8.8.apk",
+  "sha256": "77dc2b87943d45c2085bb2ec6eaaff773e83fadfb00c7efe6f313336d2669c3e",
+  "apk_url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.10/album-Android-v0.8.10.apk",
   "ios": {
     "version_name": "0.8.3",
     "build": 74,
     "sha256": "8ca93f5fcb779fe8cfa594a1d29bac31c4101d9e5b968e3923f5b387c4474768",
     "ipa_url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.8/album-iOS-v0.8.3-altstore.ipa",
     "ipa_file_name": "album-iOS-v0.8.3-altstore.ipa",
-    "release_url": "https://github.com/zwmopen/gallery-updates/releases/tag/v0.8.8"
+    "release_url": "https://github.com/zwmopen/gallery-updates/releases/tag/v0.8.10"
   },
-  "version_code": 119,
-  "tag_name": "v0.8.8",
-  "html_url": "https://github.com/zwmopen/gallery-updates/releases/tag/v0.8.8",
-  "version_name": "0.8.8",
-  "versionCode": 119,
-  "versionName": "0.8.8",
-  "notes": "纯内网极简瘦身版：彻底剥离海外远程穿透依赖，安装包从 48.6MB 缩减至 805KB，连接自动比对版本并推送。",
-  "url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.8/album-Android-v0.8.8.apk"
+  "version_code": 121,
+  "tag_name": "v0.8.10",
+  "html_url": "https://github.com/zwmopen/gallery-updates/releases/tag/v0.8.10",
+  "version_name": "0.8.10",
+  "versionCode": 121,
+  "versionName": "0.8.10",
+  "notes": "Android v0.8.10：作品卡片秒级“秒删”瞬时乐观 UI，彻底拔除全盘扫描与重建，回收站与恢复秒级响应；纯内网极简瘦身版。",
+  "url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.10/album-Android-v0.8.10.apk"
 }
