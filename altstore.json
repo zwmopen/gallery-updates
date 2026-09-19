@@ -23,6 +23,15 @@
       "category": "photo-video",
       "versions": [
         {
+          "version": "0.8.6",
+          "buildVersion": "77",
+          "date": "2026-09-19T10:50:00Z",
+          "localizedDescription": "云端更新：0.8.6（build 77）。新增电脑在线相册全功能、双模切换、三端文案复制与首次使用自动物理归档流转。",
+          "downloadURL": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.27/album-iOS-v0.8.6-altstore.ipa",
+          "size": 22265336,
+          "sha256": "bd900e096c64de6d25308267179a86f3b562edf598ffddb4be3c45d09fed137c"
+        },
+        {
           "version": "0.8.5",
           "buildVersion": "76",
           "date": "2026-09-19T08:25:00Z",

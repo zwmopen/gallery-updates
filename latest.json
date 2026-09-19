@@ -2,11 +2,11 @@
   "sha256": "a9a792fbfaaae8928ff7505506bb631a2d8c2112c015c639cb3edf2296875e15",
   "apk_url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.27/album-Android-v0.8.27.apk",
   "ios": {
-    "version_name": "0.8.5",
-    "build": 76,
-    "sha256": "633acb1b987127a6e37f790750436baf3ca106a9ed634ca41b71152b7f8f06d3",
-    "ipa_url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.27/album-iOS-v0.8.5-altstore.ipa",
-    "ipa_file_name": "album-iOS-v0.8.5-altstore.ipa",
+    "version_name": "0.8.6",
+    "build": 77,
+    "sha256": "bd900e096c64de6d25308267179a86f3b562edf598ffddb4be3c45d09fed137c",
+    "ipa_url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.27/album-iOS-v0.8.6-altstore.ipa",
+    "ipa_file_name": "album-iOS-v0.8.6-altstore.ipa",
     "release_url": "https://github.com/zwmopen/gallery-updates/releases/tag/v0.8.27"
   },
   "version_code": 138,
