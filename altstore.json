@@ -23,6 +23,15 @@
       "category": "photo-video",
       "versions": [
         {
+          "version": "0.8.7",
+          "buildVersion": "78",
+          "date": "2026-09-19T13:00:00Z",
+          "localizedDescription": "云端更新：0.8.7（build 78）。在线图标样式与颜色1:1对齐安卓原生，并调整至发送按钮右侧。",
+          "downloadURL": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.27/album-iOS-v0.8.7-altstore.ipa",
+          "size": 22265766,
+          "sha256": "421cfcc7662df24107d39121543ce449b83ff8750a7f703e926fd6baf1604b2c"
+        },
+        {
           "version": "0.8.6",
           "buildVersion": "77",
           "date": "2026-09-19T10:50:00Z",
