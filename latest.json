@@ -1,6 +1,6 @@
 {
-  "sha256": "f72972b38557e7193f222caead988a116a1e15ad19e027dff734dbf89601fe11",
-  "apk_url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.14/album-Android-v0.8.14.apk",
+  "sha256": "a9a792fbfaaae8928ff7505506bb631a2d8c2112c015c639cb3edf2296875e15",
+  "apk_url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.27/album-Android-v0.8.27.apk",
   "ios": {
     "version_name": "0.8.4",
     "build": 75,
@@ -9,12 +9,12 @@
     "ipa_file_name": "album-iOS-v0.8.4-altstore.ipa",
     "release_url": "https://github.com/zwmopen/gallery-updates/releases/tag/v0.8.11"
   },
-  "version_code": 125,
-  "tag_name": "v0.8.14",
-  "html_url": "https://github.com/zwmopen/gallery-updates/releases/tag/v0.8.14",
-  "version_name": "0.8.14",
-  "versionCode": 125,
-  "versionName": "0.8.14",
-  "notes": "Android v0.8.14 正式版：\n1. 【新增顶部搜索框】：相册顶部新增圆角胶囊搜索栏，随输即搜；支持按目的地/文件夹名（如安吉、莫干山）与作品标题关键字（如温泉、慢下来）双向秒级过滤；\n2. 【多关键词组合筛选】：支持空格输入多个词（如“安吉 温泉”），交集筛选更精准；\n3. 【跨文件夹智能回退】：在特定分类标签下输入其他文件夹内容时，系统自动平滑切回全局搜索，绝不卡在空白屏；\n4. 【防误触与交互贴心】：搜索框右侧带一键清空按钮；按返回键优先清空搜索而不退出软件；滑动列表自动收起键盘防遮挡；\n5. 【画质 100% 保真】：坚持原画无损直传，绝不压缩图片。",
-  "url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.14/album-Android-v0.8.14.apk"
+  "version_code": 138,
+  "tag_name": "v0.8.27",
+  "html_url": "https://github.com/zwmopen/gallery-updates/releases/tag/v0.8.27",
+  "version_name": "0.8.27",
+  "versionCode": 138,
+  "versionName": "0.8.27",
+  "notes": "Android v0.8.27 build 138:\n1. Online gallery lifecycle: firstSharedAtMs, trashedAtMs, useCount tracking on mobile\n2. First-share auto-archive to _已发送1次 via /api/online/use-work\n3. Manual delete via /api/online/delete-work moves PC file immediately\n4. Online trash countdown display and independent navigation\n5. Bug fix: Tuple import in online_gallery_service.py",
+  "url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.27/album-Android-v0.8.27.apk"
 }
