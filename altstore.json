@@ -23,6 +23,15 @@
       "category": "photo-video",
       "versions": [
         {
+          "version": "0.8.5",
+          "buildVersion": "76",
+          "date": "2026-09-19T08:25:00Z",
+          "localizedDescription": "云端更新：0.8.5（build 76）。与 Android v0.8.27 协同生命周期更新。",
+          "downloadURL": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.27/album-iOS-v0.8.5-altstore.ipa",
+          "size": 22169097,
+          "sha256": "633acb1b987127a6e37f790750436baf3ca106a9ed634ca41b71152b7f8f06d3"
+        },
+        {
           "version": "0.8.4",
           "buildVersion": "75",
           "date": "2026-09-17T05:25:00Z",
