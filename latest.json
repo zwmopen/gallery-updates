@@ -1,20 +1,20 @@
 {
-  "sha256": "4d36c5192e2a45a33fed0f6825fa46ff834eb2fefa96c035558cd6f98977c067",
-  "apk_url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.31/album-Android-v0.8.31.apk",
+  "sha256": "8e893233cce5bd2604b393ce41da4e0adc7708647b8a587dff8c80c651bbe921",
+  "apk_url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.32/album-Android-v0.8.32.apk",
   "ios": {
     "version_name": "0.8.10",
     "build": 81,
-    "sha256": "7935e0ea5b71a34c96b6f428adb54a39e2d2f946627534308cdb3d4127afd82f",
-    "ipa_url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.31/album-iOS-v0.8.10-altstore.ipa",
+    "sha256": "ef34a3da767d987b7e19b986e76403afe202624f897df1762d3266adcc6f24a2",
+    "ipa_url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.32/album-iOS-v0.8.10-altstore.ipa",
     "ipa_file_name": "album-iOS-v0.8.10-altstore.ipa",
-    "release_url": "https://github.com/zwmopen/gallery-updates/releases/tag/v0.8.31"
+    "release_url": "https://github.com/zwmopen/gallery-updates/releases/tag/v0.8.32"
   },
-  "version_code": 142,
-  "tag_name": "v0.8.31",
-  "html_url": "https://github.com/zwmopen/gallery-updates/releases/tag/v0.8.31",
-  "version_name": "0.8.31",
-  "versionCode": 142,
-  "versionName": "0.8.31",
+  "version_code": 143,
+  "tag_name": "v0.8.32",
+  "html_url": "https://github.com/zwmopen/gallery-updates/releases/tag/v0.8.32",
+  "version_name": "0.8.32",
+  "versionCode": 143,
+  "versionName": "0.8.32",
   "notes": "Android v0.8.27 build 138:\n1. Online gallery lifecycle: firstSharedAtMs, trashedAtMs, useCount tracking on mobile\n2. First-share auto-archive to _已发送1次 via /api/online/use-work\n3. Manual delete via /api/online/delete-work moves PC file immediately\n4. Online trash countdown display and independent navigation\n5. Bug fix: Tuple import in online_gallery_service.py",
-  "url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.31/album-Android-v0.8.31.apk"
+  "url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.32/album-Android-v0.8.32.apk"
 }
