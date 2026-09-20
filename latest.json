@@ -1,10 +1,10 @@
 {
-  "sha256": "d5249f8df8f3215c3a071598cd0f6a9c972d543c5cfc33845892a39a9eb1d68c",
+  "sha256": "9cb850562c54c78724bdda2f1d65ad22b7a1184d90671c0c650a8b0d74bd8a5f",
   "apk_url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.28/album-Android-v0.8.28.apk",
   "ios": {
     "version_name": "0.8.8",
     "build": 79,
-    "sha256": "1d7cd2cceef543605d2ec9e9bb794700f1ffb17a398ce27b9445d540a354af3d",
+    "sha256": "f8bdd087b2b13cbcdfbc9a8eaca802377b2e32e498385c3ccc5e1b0736fe2542",
     "ipa_url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.28/album-iOS-v0.8.8-altstore.ipa",
     "ipa_file_name": "album-iOS-v0.8.8-altstore.ipa",
     "release_url": "https://github.com/zwmopen/gallery-updates/releases/tag/v0.8.28"
