@@ -1,20 +1,20 @@
 {
-  "sha256": "a68dad767bee70411668b82dd660914ebcff7eb915d92ec3de366680b93a0a27",
-  "apk_url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.33/album-Android-v0.8.33.apk",
+  "sha256": "6d48e8b9769c1855904a5a33ab05f6cb2570d6bd4af417c565b961944e0f8cfa",
+  "apk_url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.34/album-Android-v0.8.34.apk",
   "ios": {
-    "version_name": "0.8.11",
-    "build": 82,
-    "sha256": "60c0b209f3c32f6796071be74599920abdf934d5fc1553f44c78a0a390e71629",
-    "ipa_url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.33/album-iOS-v0.8.11-altstore.ipa",
-    "ipa_file_name": "album-iOS-v0.8.11-altstore.ipa",
-    "release_url": "https://github.com/zwmopen/gallery-updates/releases/tag/v0.8.33"
+    "version_name": "0.8.12",
+    "build": 83,
+    "sha256": "ac143b953daf9f4937934cbb12c8ddee780bc5982efe46aac7f2c2ba044b501e",
+    "ipa_url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.34/album-iOS-v0.8.12-altstore.ipa",
+    "ipa_file_name": "album-iOS-v0.8.12-altstore.ipa",
+    "release_url": "https://github.com/zwmopen/gallery-updates/releases/tag/v0.8.34"
   },
-  "version_code": 144,
-  "tag_name": "v0.8.33",
-  "html_url": "https://github.com/zwmopen/gallery-updates/releases/tag/v0.8.33",
-  "version_name": "0.8.33",
-  "versionCode": 144,
-  "versionName": "0.8.33",
+  "version_code": 145,
+  "tag_name": "v0.8.34",
+  "html_url": "https://github.com/zwmopen/gallery-updates/releases/tag/v0.8.34",
+  "version_name": "0.8.34",
+  "versionCode": 145,
+  "versionName": "0.8.34",
   "notes": "Android v0.8.27 build 138:\n1. Online gallery lifecycle: firstSharedAtMs, trashedAtMs, useCount tracking on mobile\n2. First-share auto-archive to _已发送1次 via /api/online/use-work\n3. Manual delete via /api/online/delete-work moves PC file immediately\n4. Online trash countdown display and independent navigation\n5. Bug fix: Tuple import in online_gallery_service.py",
-  "url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.33/album-Android-v0.8.33.apk"
+  "url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.34/album-Android-v0.8.34.apk"
 }
