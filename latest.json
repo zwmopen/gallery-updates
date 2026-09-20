@@ -1,20 +1,20 @@
 {
-  "sha256": "0401ba9953f7a1395a6d38bce8fe37120e160369b3bb9f7e46eadf8cb26184ff",
-  "apk_url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.43/album-Android-v0.8.43.apk",
+  "sha256": "22cac8b92479b4d0d1805112a0b02c90a86eff5732877926b6c58c0ae47ea299",
+  "apk_url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.44/album-Android-v0.8.44.apk",
   "ios": {
-    "version_name": "0.8.20",
-    "build": 91,
-    "sha256": "f5c1c306d866b243f5cfd5d5a2b59165d62fed57a3e03d8c9c9cd4b16c834b6c",
-    "ipa_url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.43/album-iOS-v0.8.20-altstore.ipa",
-    "ipa_file_name": "album-iOS-v0.8.20-altstore.ipa",
-    "release_url": "https://github.com/zwmopen/gallery-updates/releases/tag/v0.8.43"
+    "version_name": "0.8.21",
+    "build": 92,
+    "sha256": "9736c1e98ce43637e21c3a8dd0861627d339be5d3964400c0fa581310f18cb2e",
+    "ipa_url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.44/album-iOS-v0.8.21-altstore.ipa",
+    "ipa_file_name": "album-iOS-v0.8.21-altstore.ipa",
+    "release_url": "https://github.com/zwmopen/gallery-updates/releases/tag/v0.8.44"
   },
-  "version_code": 154,
-  "tag_name": "v0.8.43",
-  "html_url": "https://github.com/zwmopen/gallery-updates/releases/tag/v0.8.43",
-  "version_name": "0.8.43",
-  "versionCode": 154,
-  "versionName": "0.8.43",
-  "notes": "相册 Android 0.8.43（versionCode 154）/ iOS 0.8.20（build 91）；源码提交 835a1ef86757bf8cf97caec4dc1e5c1c8de12db0",
-  "url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.43/album-Android-v0.8.43.apk"
+  "version_code": 155,
+  "tag_name": "v0.8.44",
+  "html_url": "https://github.com/zwmopen/gallery-updates/releases/tag/v0.8.44",
+  "version_name": "0.8.44",
+  "versionCode": 155,
+  "versionName": "0.8.44",
+  "notes": "相册 Android 0.8.44（versionCode 155）/ iOS 0.8.21（build 92）；PC 分发「下载即用」落地，设备连接自动入白名单；源码提交 6b55110bd2cb3c1d379dbe35f2ff84d34d19a72e",
+  "url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.44/album-Android-v0.8.44.apk"
 }
