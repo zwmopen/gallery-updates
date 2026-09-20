@@ -1,20 +1,20 @@
 {
-  "sha256": "895be9760595787393d44bca77ded5eae17e5079ee11eaf9d03f40627fb3e0de",
-  "apk_url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.38/album-Android-v0.8.38.apk",
+  "sha256": "1814f2ccde0a17b2f47413397ca4f6ccc5c41e5dd23713aeecf718670b82e021",
+  "apk_url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.39/album-Android-v0.8.39.apk",
   "ios": {
-    "version_name": "0.8.16",
-    "build": 87,
-    "sha256": "63ac25395a521817fdedbbf24d4f7db50d313d6b34269e89c3a43fcd18af6e4e",
-    "ipa_url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.38/album-iOS-v0.8.16-altstore.ipa",
-    "ipa_file_name": "album-iOS-v0.8.16-altstore.ipa",
-    "release_url": "https://github.com/zwmopen/gallery-updates/releases/tag/v0.8.38"
+    "version_name": "0.8.17",
+    "build": 88,
+    "sha256": "4cefe361479327a4ae165deec71918d5646895fbd78690eee24c36777f5ce5be",
+    "ipa_url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.39/album-iOS-v0.8.17-altstore.ipa",
+    "ipa_file_name": "album-iOS-v0.8.17-altstore.ipa",
+    "release_url": "https://github.com/zwmopen/gallery-updates/releases/tag/v0.8.39"
   },
-  "version_code": 149,
-  "tag_name": "v0.8.38",
-  "html_url": "https://github.com/zwmopen/gallery-updates/releases/tag/v0.8.38",
-  "version_name": "0.8.38",
-  "versionCode": 149,
-  "versionName": "0.8.38",
-  "notes": "Android v0.8.27 build 138:\n1. Online gallery lifecycle: firstSharedAtMs, trashedAtMs, useCount tracking on mobile\n2. First-share auto-archive to _已发送1次 via /api/online/use-work\n3. Manual delete via /api/online/delete-work moves PC file immediately\n4. Online trash countdown display and independent navigation\n5. Bug fix: Tuple import in online_gallery_service.py",
-  "url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.38/album-Android-v0.8.38.apk"
+  "version_code": 150,
+  "tag_name": "v0.8.39",
+  "html_url": "https://github.com/zwmopen/gallery-updates/releases/tag/v0.8.39",
+  "version_name": "0.8.39",
+  "versionCode": 150,
+  "versionName": "0.8.39",
+  "notes": "相册 Android 0.8.39（versionCode 150）/ iOS 0.8.17（build 88）；源码提交 95e5d4787e2c45c40ee2fc3f12fed35b16fb1cac",
+  "url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.39/album-Android-v0.8.39.apk"
 }
