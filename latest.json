@@ -1,20 +1,20 @@
 {
-  "sha256": "9cb850562c54c78724bdda2f1d65ad22b7a1184d90671c0c650a8b0d74bd8a5f",
-  "apk_url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.28/album-Android-v0.8.28.apk",
+  "sha256": "ca7f59b8c38a3fde9c8e11a07cbf2a1d2b5851fe3faabcfb54e997637180be50",
+  "apk_url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.29/album-Android-v0.8.29.apk",
   "ios": {
     "version_name": "0.8.8",
     "build": 79,
-    "sha256": "f8bdd087b2b13cbcdfbc9a8eaca802377b2e32e498385c3ccc5e1b0736fe2542",
-    "ipa_url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.28/album-iOS-v0.8.8-altstore.ipa",
+    "sha256": "c13ebd8ca95e76409ed47475d89e287b08f30cd0c8695971f289f1d3ae4b8ab2",
+    "ipa_url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.29/album-iOS-v0.8.8-altstore.ipa",
     "ipa_file_name": "album-iOS-v0.8.8-altstore.ipa",
-    "release_url": "https://github.com/zwmopen/gallery-updates/releases/tag/v0.8.28"
+    "release_url": "https://github.com/zwmopen/gallery-updates/releases/tag/v0.8.29"
   },
-  "version_code": 139,
-  "tag_name": "v0.8.28",
-  "html_url": "https://github.com/zwmopen/gallery-updates/releases/tag/v0.8.28",
-  "version_name": "0.8.28",
-  "versionCode": 139,
-  "versionName": "0.8.28",
+  "version_code": 140,
+  "tag_name": "v0.8.29",
+  "html_url": "https://github.com/zwmopen/gallery-updates/releases/tag/v0.8.29",
+  "version_name": "0.8.29",
+  "versionCode": 140,
+  "versionName": "0.8.29",
   "notes": "Android v0.8.27 build 138:\n1. Online gallery lifecycle: firstSharedAtMs, trashedAtMs, useCount tracking on mobile\n2. First-share auto-archive to _已发送1次 via /api/online/use-work\n3. Manual delete via /api/online/delete-work moves PC file immediately\n4. Online trash countdown display and independent navigation\n5. Bug fix: Tuple import in online_gallery_service.py",
-  "url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.28/album-Android-v0.8.28.apk"
+  "url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.29/album-Android-v0.8.29.apk"
 }
