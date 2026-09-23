@@ -1,12 +1,12 @@
 {
-  "sha256": "b16bfc89dd35701fbe98fcee030035d62abfff0d593bb906cd2f84fcba02cc44",
+  "sha256": "fc3807cde56513d4931f97cdd4aec56918161b8d659e217262c1d80a6e89e4c1",
   "apk_url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.51/album-Android-v0.8.51.apk",
   "ios": {
-    "version_name": "0.8.35",
-    "build": 107,
-    "sha256": "416d92f2ac2a4a84a10f3360443fde87a1695c532a8dce7fa65f65db98dedf60",
-    "ipa_url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.51/album-iOS-v0.8.35-altstore.ipa",
-    "ipa_file_name": "album-iOS-v0.8.35-altstore.ipa",
+    "version_name": "0.8.36",
+    "build": 108,
+    "sha256": "dce2597345705dc26f3d3a76de0dc74045824c249e2d658fed30604d48c92407",
+    "ipa_url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.51/album-iOS-v0.8.36-altstore.ipa",
+    "ipa_file_name": "album-iOS-v0.8.36-altstore.ipa",
     "release_url": "https://github.com/zwmopen/gallery-updates/releases/tag/v0.8.51"
   },
   "version_code": 162,
@@ -15,6 +15,6 @@
   "version_name": "0.8.51",
   "versionCode": 162,
   "versionName": "0.8.51",
-  "notes": "相册 Android 0.8.51（versionCode 162）/ iOS 0.8.35（build 107）；源码提交 76069dd68108b93d15a08b9389730f90d8d4a8b8",
+  "notes": "相册 Android 0.8.51（versionCode 162）/ iOS 0.8.36（build 108）；源码提交 17c78c0b591b7c6d5bcfd1d36f75c44b3113fc1e",
   "url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.51/album-Android-v0.8.51.apk"
 }
