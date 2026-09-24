@@ -1,20 +1,20 @@
 {
-  "sha256": "fc3807cde56513d4931f97cdd4aec56918161b8d659e217262c1d80a6e89e4c1",
-  "apk_url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.51/album-Android-v0.8.51.apk",
+  "sha256": "440a6a4987c03f3d200e92f1236ab37f3b26e505835bf58e015d91a2b279e5f7",
+  "apk_url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.52/album-Android-v0.8.52.apk",
   "ios": {
-    "version_name": "0.8.36",
-    "build": 108,
-    "sha256": "dce2597345705dc26f3d3a76de0dc74045824c249e2d658fed30604d48c92407",
-    "ipa_url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.51/album-iOS-v0.8.36-altstore.ipa",
-    "ipa_file_name": "album-iOS-v0.8.36-altstore.ipa",
-    "release_url": "https://github.com/zwmopen/gallery-updates/releases/tag/v0.8.51"
+    "version_name": "0.8.37",
+    "build": 109,
+    "sha256": "3d38636e6836349a9a4e5c8f5b1d15e94ed8fd7471b515ba73c2df90bc92328a",
+    "ipa_url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.52/album-iOS-v0.8.37-altstore.ipa",
+    "ipa_file_name": "album-iOS-v0.8.37-altstore.ipa",
+    "release_url": "https://github.com/zwmopen/gallery-updates/releases/tag/v0.8.52"
   },
-  "version_code": 162,
-  "tag_name": "v0.8.51",
-  "html_url": "https://github.com/zwmopen/gallery-updates/releases/tag/v0.8.51",
-  "version_name": "0.8.51",
-  "versionCode": 162,
-  "versionName": "0.8.51",
-  "notes": "相册 Android 0.8.51（versionCode 162）/ iOS 0.8.36（build 108）；源码提交 17c78c0b591b7c6d5bcfd1d36f75c44b3113fc1e",
-  "url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.51/album-Android-v0.8.51.apk"
+  "version_code": 163,
+  "tag_name": "v0.8.52",
+  "html_url": "https://github.com/zwmopen/gallery-updates/releases/tag/v0.8.52",
+  "version_name": "0.8.52",
+  "versionCode": 163,
+  "versionName": "0.8.52",
+  "notes": "相册 Android 0.8.52（versionCode 163）/ iOS 0.8.37（build 109）；源码提交 18c2f5565d6547a641b6bd981ab2d02bd187cab0",
+  "url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.52/album-Android-v0.8.52.apk"
 }
