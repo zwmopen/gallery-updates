@@ -1,10 +1,10 @@
 {
-  "sha256": "0cfdfab711e5cc71501d679df3ba3bcc13d3939959cd100582bb05359800276e",
+  "sha256": "5c902625a65797c2d9b46b7bf703672fdc1dc2b8b7ece66a0ef976bfa37dea93",
   "apk_url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.61/album-Android-v0.8.61.apk",
   "ios": {
     "version_name": "0.8.44",
     "build": 116,
-    "sha256": "a89ab5d6c160fefc1fe7ae360047046a6029a9f325531af95ece5d393a69b2b0",
+    "sha256": "f4496d5d99f6eba5ae0474878496214e7c04e3580dc70945885bd9262595d370",
     "ipa_url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.61/album-iOS-v0.8.44-altstore.ipa",
     "ipa_file_name": "album-iOS-v0.8.44-altstore.ipa",
     "release_url": "https://github.com/zwmopen/gallery-updates/releases/tag/v0.8.61"
@@ -15,6 +15,6 @@
   "version_name": "0.8.61",
   "versionCode": 172,
   "versionName": "0.8.61",
-  "notes": "相册 Android 0.8.61（versionCode 172）/ iOS 0.8.44（build 116）；源码提交 a88cd8f60c63d98a8a59bee11d7d9c9cb63e1c6b",
+  "notes": "相册 Android 0.8.61（versionCode 172）/ iOS 0.8.44（build 116）；源码提交 6203cbf7464873c5fff668e2170486bc337106cc",
   "url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.61/album-Android-v0.8.61.apk"
 }
