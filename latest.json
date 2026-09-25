@@ -1,20 +1,20 @@
 {
-  "sha256": "e3bc81c9c326946cf57eaa0301c0c00cd3cd46806f9701cbda426990c2a0a6a6",
-  "apk_url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.59/album-Android-v0.8.59.apk",
+  "sha256": "d2282e06e4c46b0ec81db8723cb27bc2a591b2e8c27f5f6ee36425b024eb26a8",
+  "apk_url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.60/album-Android-v0.8.60.apk",
   "ios": {
     "version_name": "0.8.41",
     "build": 113,
-    "sha256": "7e5f86be50dd515400d9763b9ceee56f78de1676160cc592d6835acaeee6134c",
-    "ipa_url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.59/album-iOS-v0.8.41-altstore.ipa",
+    "sha256": "33bd05f9a4eb1765a6028eec1bcf8e6cfab6e79ec742ac1cc9e2af6de2775299",
+    "ipa_url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.60/album-iOS-v0.8.41-altstore.ipa",
     "ipa_file_name": "album-iOS-v0.8.41-altstore.ipa",
-    "release_url": "https://github.com/zwmopen/gallery-updates/releases/tag/v0.8.59"
+    "release_url": "https://github.com/zwmopen/gallery-updates/releases/tag/v0.8.60"
   },
-  "version_code": 170,
-  "tag_name": "v0.8.59",
-  "html_url": "https://github.com/zwmopen/gallery-updates/releases/tag/v0.8.59",
-  "version_name": "0.8.59",
-  "versionCode": 170,
-  "versionName": "0.8.59",
-  "notes": "相册 Android 0.8.59（versionCode 170）/ iOS 0.8.41（build 113）；源码提交 7b925c35be06156573f37dadc59772cfad84f0b8",
-  "url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.59/album-Android-v0.8.59.apk"
+  "version_code": 171,
+  "tag_name": "v0.8.60",
+  "html_url": "https://github.com/zwmopen/gallery-updates/releases/tag/v0.8.60",
+  "version_name": "0.8.60",
+  "versionCode": 171,
+  "versionName": "0.8.60",
+  "notes": "相册 Android 0.8.60（versionCode 171）/ iOS 0.8.41（build 113）；源码提交 caec2e9f99c81d44b8a29135c3026a346d8d4c08",
+  "url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.60/album-Android-v0.8.60.apk"
 }
