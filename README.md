@@ -1,11 +1,114 @@
-# 相册更新
+# 文件收发中控 · 安装包与公开更新通道
 
-这里仅存放“相册”Android 客户端的公开版本信息和安装包，不包含主项目源代码、用户素材或诊断日志。
+> **这里是「下载安装」和「自动更新」的地方，不是开发的地方。**
+>
+> 源码在 [`zwmopen/team-video-workflow`](https://github.com/zwmopen/team-video-workflow) 的
+> `tools/device-share-hub/` 目录；**每个 Release 里还附了一份「构建出这批安装包的那一版源码」**
+> （`device-share-hub-source-<版本>.zip`），装什么版本就能拿到什么版本的源码，不用去翻 commit。
+>
+> 本仓库**只包含**安装包、更新清单和源码快照，**不包含**用户素材、诊断日志或任何个人数据。
 
-本仓库只是公开更新通道，不是开发仓库。Windows、Android、iPhone 的完整可构建源码、设计文档和自动构建流程统一保存在私有主仓库 [`zwmopen/team-video-workflow`](https://github.com/zwmopen/team-video-workflow) 的 `tools/device-share-hub` 目录；正式版本发布页同时提供显式源码 ZIP。
+---
 
-- Android 0.6.11、iPhone 0.6.7 与 Windows V4.1.2：[V0.6.11](https://github.com/zwmopen/gallery-updates/releases/tag/v0.6.11)
-- 历史归档：[V0.3.2](https://github.com/zwmopen/gallery-updates/releases/tag/v0.3.2)
-- 自动更新清单：[latest.json](latest.json)
+## 一、我该下哪一个？
 
-V0.3.2 使用旧临时签名和旧更新地址，仅作归档。
+| 你用的设备 | 文件长什么样 | 怎么装上去 |
+|---|---|---|
+| **安卓手机** | `album-Android-v0.8.xx.apk` | 手机上打开 APK，按系统提示确认安装（一般要允许一次「未知来源」） |
+| **iPhone** | `album-iOS-v0.8.xx-altstore.ipa` | 需要 **AltStore / AltServer** 或 **Sideloadly**，用你自己的 Apple ID 签名后装机 |
+| **Windows 电脑** | `文件收发中控-Windows-V4.3.xx.exe` | 双击就跑，绿色版，不用安装 |
+
+⚠️ **iPhone 不会自己升级。** 应用不能替换自身 —— 每次都得从电脑侧载。
+   这是 iOS 的规矩，不是这个项目的限制。安卓装完之后可以走下面的自动更新通道。
+
+---
+
+## 二、当前版本
+
+| 端 | 版本 | 构建号 | 这一版有什么 |
+|---|---|---|---|
+| Android | **0.8.63** | 174 | 手动指定电脑地址时支持 `IP:端口`（以前只让填 IP、端口写死） |
+| iPhone | **0.8.45** | 117 | 详情页去掉名不副实的「一键发布」，改为与安卓一致的「分享所选」 |
+| Windows | **V4.3.30** | — | 新增「设置 → 在线相册服务」：状态、启停、重启、开机自启、地址，全在客户端里 |
+
+逐版本的完整改动说明见主仓库的
+[`tools/device-share-hub/CHANGELOG.md`](https://github.com/zwmopen/team-video-workflow/blob/main/tools/device-share-hub/CHANGELOG.md)。
+
+---
+
+## 三、自动更新是怎么工作的
+
+**电脑有出网代理，手机没有。** 所以更新走的是「电脑代取」：
+
+```
+手机 ──局域网──▶ 电脑上的「在线相册服务」（端口 45835）──代理──▶ GitHub
+                        │
+                        └── 取回更新清单 + 安装包，再从局域网原样端给手机
+```
+
+没有这层中转，手机会一直停在旧版本 **并且不报任何错** ——
+表现就是点「检查更新」永远回答「已是最新」（实测仓库已经 0.8.61，手机卡在 0.8.58 好几天没人发现）。
+
+| 文件 | 干什么 |
+|---|---|
+| [`latest.json`](latest.json) | **稳定版**更新清单（手机端读的就是这个） |
+| [`latest-beta.json`](latest-beta.json) | 测试版更新清单 |
+| [`altstore.json`](altstore.json) | iPhone 的 AltStore 更新源（稳定版） |
+| [`altstore-beta.json`](altstore-beta.json) | iPhone 的 AltStore 更新源（测试版） |
+
+手机实际访问的路径是电脑中转后的同名路径（`/latest.json`、`/altstore.json`），
+内容和上面这几个文件一致。
+
+---
+
+## 四、源码在哪（三个地方都能拿到）
+
+1. **Release 附件里的源码快照** —— 最省事
+   每个 Release 里都有一个 `device-share-hub-source-<版本>.zip`，
+   就是**构建出这批安装包的那一版源码**。装的是哪个版本，拿到的就是哪版源码。
+
+2. **主仓库**
+   [`zwmopen/team-video-workflow`](https://github.com/zwmopen/team-video-workflow)，
+   代码都在 `tools/device-share-hub/` 下：
+   - Windows 电脑客户端（C++ / Win32，CMake + MSVC）
+   - Android 客户端（Java）
+   - iPhone 客户端（Swift）
+   - 在线相册服务（Python，端口 45835）
+
+3. **按 commit 精确定位**
+   每个 Release 的说明里都写了 `Published from ... commit <SHA>`，
+   拿那个 SHA 到主仓库就能找到这一版。
+
+---
+
+## 五、Windows 电脑端：装完先做这三件事
+
+1. **设一次「原始目录」** —— `设置 → 目录 → 原始目录 → 更改…`。
+   这是电脑上收发文件的根目录，手机发来的东西也落在这里。不设的话后面全是空的。
+2. **把「在线相册服务」跑起来** —— `设置 → 在线相册服务 → 启动`。
+   看到状态变成「运行中」、下面出现「手机连的地址 http://…」就成了。
+3. **勾上「开机自动启动服务」**（建议）—— 勾了以后开电脑就能直接用。
+
+之后手机和电脑连同一个 WiFi，手机端就能看到电脑了。
+
+> V4.3.30 之前，这个服务完全靠 `scripts/` 下面的一堆 `.cmd` / `.ps1` 手工管着，
+> 客户端自己根本不知道它存在。现在状态、启停、重启、刷新、浏览器打开、开机自启
+> 全在「设置 → 在线相册服务」里，状态每 5 秒自动刷新。
+
+完整说明见主仓库的
+[`tools/device-share-hub/README.md`](https://github.com/zwmopen/team-video-workflow/blob/main/tools/device-share-hub/README.md)
+—— 它同时会被打包成 Windows 安装包里的「使用说明.md」。
+
+---
+
+## 六、连不上 / 升不了级，先看这里
+
+| 现象 | 先查什么 |
+|---|---|
+| 手机一直转圈连不上电脑 | 电脑端「设置 → 在线相册服务」是不是「运行中」；不是就点「启动」，等几秒 |
+| 服务在跑，手机还是连不上 | 手机和电脑是不是在同一个网段（比如都是 `192.168.1.x`）。电脑插着网线、手机连 WiFi 时，有可能是两个网段 |
+| 想手动告诉手机电脑在哪 | **安卓**：连不上时错误卡片上有「修改电脑 IP」，填 `192.168.1.27`，端口不是默认就写 `192.168.1.27:45999`。**iPhone**：**长按**顶部那个「手机本地 / 电脑在线」切换按钮，填完整地址 `http://192.168.1.27:45835` |
+| 手机点「检查更新」永远说「已是最新」 | 说明电脑端的**更新中转**没在工作。看「在线相册服务」三行状态里的「更新中转」是不是「正常」；电脑有没有开着代理 |
+| iPhone 升不了级 | iPhone 本来就不会自己升级，必须用 AltStore / Sideloadly 从电脑装 |
+| 装到一半说安装包校验失败 | 电脑缓存的安装包字节和清单里的 SHA256 对不上。看「在线相册服务」里的「更新中转」，必要时点「重启」让它重新代取一份 |
+| 还想再确认 | 电脑端点「打开诊断日志」，里面有每一步的记录 |
