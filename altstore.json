@@ -25,11 +25,11 @@
         {
           "version": "0.8.44",
           "buildVersion": "116",
-          "date": "2026-09-26T13:18:31Z",
+          "date": "2026-09-26T13:51:05Z",
           "localizedDescription": "云端更新：0.8.44（build 116）。",
           "downloadURL": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.61/album-iOS-v0.8.44-altstore.ipa",
           "size": 22419834,
-          "sha256": "867259836f692f48ac6426e0c670de3d39ebb82c1f64f5814002eb5f7fb819b4"
+          "sha256": "cfbdd88242de6a857714ddd6601085f4e5cd5b7f51361ecce9687e0517551fa5"
         },
         {
           "version": "0.8.42",
