@@ -16,7 +16,7 @@
 |---|---|---|
 | **安卓手机** | `album-Android-v0.8.xx.apk` | 手机上打开 APK，按系统提示确认安装（一般要允许一次「未知来源」） |
 | **iPhone** | `album-iOS-v0.8.xx-altstore.ipa` | 需要 **AltStore / AltServer** 或 **Sideloadly**，用你自己的 Apple ID 签名后装机 |
-| **Windows 电脑** | `文件收发中控-Windows-V4.3.xx.exe` | 双击就跑，绿色版，不用安装 |
+| **Windows 电脑** | `DeviceShareHub-Windows-V4.3.xx.exe` | 双击就跑，绿色版，不用安装 |
 
 ⚠️ **iPhone 不会自己升级。** 应用不能替换自身 —— 每次都得从电脑侧载。
    这是 iOS 的规矩，不是这个项目的限制。安卓装完之后可以走下面的自动更新通道。
@@ -29,7 +29,7 @@
 |---|---|---|---|
 | Android | **0.8.63** | 174 | 手动指定电脑地址时支持 `IP:端口`（以前只让填 IP、端口写死） |
 | iPhone | **0.8.45** | 117 | 详情页去掉名不副实的「一键发布」，改为与安卓一致的「分享所选」 |
-| Windows | **V4.3.30** | — | 新增「设置 → 在线相册服务」：状态、启停、重启、开机自启、地址，全在客户端里 |
+| Windows | **V4.3.31** | — | 修好「检查更新」：以前拿手机端版本号跟电脑端比，永远提示「已是最新」；同时把「设置 → 在线相册服务」（状态/启停/重启/自启/地址）收进客户端 |
 
 逐版本的完整改动说明见主仓库的
 [`tools/device-share-hub/CHANGELOG.md`](https://github.com/zwmopen/team-video-workflow/blob/main/tools/device-share-hub/CHANGELOG.md)。
