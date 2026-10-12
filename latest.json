@@ -1,27 +1,27 @@
 {
-  "sha256": "806c9602f8c07642c98e342b0666f0d44f1a85d9b5555fb5b894b52836162b09",
-  "apk_url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.78/album-Android-v0.8.78.apk",
+  "sha256": "24d5f794e090c49baa8c720f738f39c6acdfa4d6f309d9a2ae53f164cde7bf62",
+  "apk_url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.105/album-Android-v0.8.105.apk",
   "ios": {
-    "version_name": "0.8.78",
-    "build": 189,
-    "sha256": "a1313ace13ad45bfa093423817191a364d7f93605ab1a57c377c98b7228c7f40",
-    "ipa_url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.78/album-iOS-v0.8.78-altstore.ipa",
-    "ipa_file_name": "album-iOS-v0.8.78-altstore.ipa",
-    "release_url": "https://github.com/zwmopen/gallery-updates/releases/tag/v0.8.78"
+    "version_name": "0.8.105",
+    "build": 216,
+    "sha256": "518db203b46bb6599d52831edfd3b7e79d6935d8a729787ea424db2a8eb35df3",
+    "ipa_url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.105/album-iOS-v0.8.105-altstore.ipa",
+    "ipa_file_name": "album-iOS-v0.8.105-altstore.ipa",
+    "release_url": "https://github.com/zwmopen/gallery-updates/releases/tag/v0.8.105"
   },
-  "version_code": 189,
-  "tag_name": "v0.8.78",
-  "html_url": "https://github.com/zwmopen/gallery-updates/releases/tag/v0.8.78",
-  "version_name": "0.8.78",
-  "versionCode": 189,
-  "versionName": "0.8.78",
-  "notes": "相册 Android 0.8.78（versionCode 189）/ iOS 0.8.78（build 189）；源码提交 4deaa85e359e9df3143e7e4ce5c90a0e96b85ad5",
-  "url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.78/album-Android-v0.8.78.apk",
+  "version_code": 216,
+  "tag_name": "v0.8.105",
+  "html_url": "https://github.com/zwmopen/gallery-updates/releases/tag/v0.8.105",
+  "version_name": "0.8.105",
+  "versionCode": 216,
+  "versionName": "0.8.105",
+  "notes": "相册 Android 0.8.105（versionCode 216）/ iOS 0.8.105（build 216）；源码提交 636c47a48e211356025d0caac77ac5275d41704d",
+  "url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.105/album-Android-v0.8.105.apk",
   "windows": {
     "version": "4.3.33",
-    "sha256": "d8765fede3a9a805bb062715531c1c13eae6c2e372c63c5facbbd94603d6b668",
-    "url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.78/DeviceShareHub-Windows-V4.3.33.exe",
+    "sha256": "820ef4cd1f1eafe610970bd440b45dc598515cd0cee591d6104dd4e08b6ea2ed",
+    "url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.105/DeviceShareHub-Windows-V4.3.33.exe",
     "file_name": "DeviceShareHub-Windows-V4.3.33.exe",
-    "release_url": "https://github.com/zwmopen/gallery-updates/releases/tag/v0.8.78"
+    "release_url": "https://github.com/zwmopen/gallery-updates/releases/tag/v0.8.105"
   }
 }
