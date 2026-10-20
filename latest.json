@@ -1,10 +1,10 @@
 {
-  "sha256": "fc1243ac0762ebe9f6f923b96a3d70ab9f816dcfb532e397354861cfeb7d7678",
+  "sha256": "cabed845e1bea4bc1bb8db1025778bbe1ab4e286bbb338418dd51803129370cc",
   "apk_url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.110/album-Android-v0.8.110.apk",
   "ios": {
     "version_name": "0.8.112",
     "build": 223,
-    "sha256": "45e98b742aa6ca0821989c31fedd38d7231f89e8ee55c62574d5bc85eb5da744",
+    "sha256": "f5b30d0136be4d39259d050f1272596c2f20df28f00e55ef0404b2694f1e1a37",
     "ipa_url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.110/album-iOS-v0.8.112-altstore.ipa",
     "ipa_file_name": "album-iOS-v0.8.112-altstore.ipa",
     "release_url": "https://github.com/zwmopen/gallery-updates/releases/tag/v0.8.110"
@@ -15,11 +15,11 @@
   "version_name": "0.8.110",
   "versionCode": 221,
   "versionName": "0.8.110",
-  "notes": "相册 Android 0.8.110（versionCode 221）/ iOS 0.8.112（build 223）；源码提交 59e8122ac8aaa4447fca60d09410814a0d8fa310",
+  "notes": "相册 Android 0.8.110（versionCode 221）/ iOS 0.8.112（build 223）；源码提交 b1a9b6fd932fa40ed8780d197066d9b5af659a62",
   "url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.110/album-Android-v0.8.110.apk",
   "windows": {
     "version": "4.3.33",
-    "sha256": "13923e7323de0ade317a7b6e1c6da29ca5d50e7199ba2a063fe5c2ce82495ab9",
+    "sha256": "0e381520219d5ac35fdb5e66cc28d899957063a2f766f81439f49f7474f25122",
     "url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.110/DeviceShareHub-Windows-V4.3.33.exe",
     "file_name": "DeviceShareHub-Windows-V4.3.33.exe",
     "release_url": "https://github.com/zwmopen/gallery-updates/releases/tag/v0.8.110"
