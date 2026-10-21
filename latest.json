@@ -1,27 +1,27 @@
 {
-  "sha256": "bdf04572badaf22107d3d64e56d50307fddd9fa05641988abce61c3a9eb31dc8",
-  "apk_url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.111/album-Android-v0.8.111.apk",
+  "sha256": "8e4740bac217ff80a3e9f1344b92f0d7d47a147e470f53cf897deeb70060ce1d",
+  "apk_url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.114/album-Android-v0.8.114.apk",
   "ios": {
-    "version_name": "0.8.113",
-    "build": 224,
-    "sha256": "56301b40e473f9645cec3dfd0e4401b33f98d2d9f19b2fc6503341f5fb083e07",
-    "ipa_url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.111/album-iOS-v0.8.113-altstore.ipa",
-    "ipa_file_name": "album-iOS-v0.8.113-altstore.ipa",
-    "release_url": "https://github.com/zwmopen/gallery-updates/releases/tag/v0.8.111"
+    "version_name": "0.8.114",
+    "build": 225,
+    "sha256": "a5d6710638e1013286929c427818cbacbc31e1700cf421360a1de2d270fa2b16",
+    "ipa_url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.114/album-iOS-v0.8.114-altstore.ipa",
+    "ipa_file_name": "album-iOS-v0.8.114-altstore.ipa",
+    "release_url": "https://github.com/zwmopen/gallery-updates/releases/tag/v0.8.114"
   },
-  "version_code": 222,
-  "tag_name": "v0.8.111",
-  "html_url": "https://github.com/zwmopen/gallery-updates/releases/tag/v0.8.111",
-  "version_name": "0.8.111",
-  "versionCode": 222,
-  "versionName": "0.8.111",
-  "notes": "【v0.8.111 / iOS v0.8.113 (build 224) 核心更新】\n1. 根治待机唤醒原图拉取失败：实装三级指数退避重试，彻底解决锁屏唤醒 -1005/-1001/-1009 网络掉线与超时；\n2. 复合版本号与全角符号完美识别打勾：重构 PlatformCopyParser，支持全角竖线与版本别名深度交叉比对，复制文案即时打勾；\n3. 前台静默保鲜：切回前台自动无感刷新已发送状态，补齐系统原生分享成功闭环。",
-  "url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.111/album-Android-v0.8.111.apk",
+  "version_code": 225,
+  "tag_name": "v0.8.114",
+  "html_url": "https://github.com/zwmopen/gallery-updates/releases/tag/v0.8.114",
+  "version_name": "0.8.114",
+  "versionCode": 225,
+  "versionName": "0.8.114",
+  "notes": "相册 Android 0.8.114（versionCode 225）/ iOS 0.8.114（build 225）；源码提交 f8fbae7a3bedbc1e803d49bb688e23ea8fdc7e96",
+  "url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.114/album-Android-v0.8.114.apk",
   "windows": {
     "version": "4.3.33",
-    "sha256": "a5f5ad885254a5cd5e26db22135ed2b0246f26fcb12e1ee32f7cde49e406c9e5",
-    "url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.111/DeviceShareHub-Windows-V4.3.33.exe",
+    "sha256": "9ee145508767b4355abd523e9460742e93af2d070c1e961ec14f0a378c633d71",
+    "url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.114/DeviceShareHub-Windows-V4.3.33.exe",
     "file_name": "DeviceShareHub-Windows-V4.3.33.exe",
-    "release_url": "https://github.com/zwmopen/gallery-updates/releases/tag/v0.8.111"
+    "release_url": "https://github.com/zwmopen/gallery-updates/releases/tag/v0.8.114"
   }
 }
