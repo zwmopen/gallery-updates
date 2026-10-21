@@ -15,7 +15,7 @@
   "version_name": "0.8.111",
   "versionCode": 222,
   "versionName": "0.8.111",
-  "notes": "相册 Android 0.8.111（versionCode 222）/ iOS 0.8.113（build 224）；源码提交 772d7662be6faf4b3d91d43bb4ce9f8fd11f1b81",
+  "notes": "【v0.8.111 / iOS v0.8.113 (build 224) 核心更新】\n1. 根治待机唤醒原图拉取失败：实装三级指数退避重试，彻底解决锁屏唤醒 -1005/-1001/-1009 网络掉线与超时；\n2. 复合版本号与全角符号完美识别打勾：重构 PlatformCopyParser，支持全角竖线与版本别名深度交叉比对，复制文案即时打勾；\n3. 前台静默保鲜：切回前台自动无感刷新已发送状态，补齐系统原生分享成功闭环。",
   "url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.111/album-Android-v0.8.111.apk",
   "windows": {
     "version": "4.3.33",

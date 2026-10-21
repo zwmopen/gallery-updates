@@ -26,7 +26,7 @@
           "version": "0.8.113",
           "buildVersion": "224",
           "date": "2026-10-21T05:20:18Z",
-          "localizedDescription": "云端更新：0.8.113（build 224）。",
+          "localizedDescription": "【iOS 0.8.113 (build 224) 核心更新】\n1. 根治待机唤醒原图拉取失败：实装三级指数退避重试，彻底解决锁屏唤醒 -1005/-1001/-1009 网络掉线与超时；\n2. 复合版本号与全角符号完美识别打勾：重构 PlatformCopyParser，支持全角竖线与版本别名深度交叉比对，复制文案即时打勾；\n3. 前台静默保鲜：切回前台自动无感刷新已发送状态，补齐系统原生分享成功闭环。",
           "downloadURL": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.111/album-iOS-v0.8.113-altstore.ipa",
           "size": 22641727,
           "sha256": "56301b40e473f9645cec3dfd0e4401b33f98d2d9f19b2fc6503341f5fb083e07"
