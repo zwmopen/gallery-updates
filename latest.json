@@ -1,27 +1,27 @@
 {
-  "sha256": "59ce641eec09af77a18ae787772691df4ff730ada32dba65dd40f4f1627c21e5",
-  "apk_url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.124/album-Android-v0.8.124.apk",
+  "sha256": "8bb3c286c3e85fb2f58dec95766392b0bad77aefca39730606d953bbb4cf176b",
+  "apk_url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.125/album-Android-v0.8.125.apk",
   "ios": {
     "version_name": "0.8.122",
     "build": 233,
-    "sha256": "2c0290f79449a04b9d7087de9ed933dc3021bd99c2c486acaf155fb8662c74d9",
-    "ipa_url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.124/album-iOS-v0.8.122-altstore.ipa",
+    "sha256": "da2e5297e6ee3e195d10c40934ad318db0bd51c405640e9c094c290773bfc69c",
+    "ipa_url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.125/album-iOS-v0.8.122-altstore.ipa",
     "ipa_file_name": "album-iOS-v0.8.122-altstore.ipa",
-    "release_url": "https://github.com/zwmopen/gallery-updates/releases/tag/v0.8.124"
+    "release_url": "https://github.com/zwmopen/gallery-updates/releases/tag/v0.8.125"
   },
-  "version_code": 235,
-  "tag_name": "v0.8.124",
-  "html_url": "https://github.com/zwmopen/gallery-updates/releases/tag/v0.8.124",
-  "version_name": "0.8.124",
-  "versionCode": 235,
-  "versionName": "0.8.124",
-  "notes": "相册 Android 0.8.124（versionCode 235）/ iOS 0.8.122（build 233）；源码提交 d9a88a2f6985f527c53a1a36409e2eb9e9b63a03",
-  "url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.124/album-Android-v0.8.124.apk",
+  "version_code": 236,
+  "tag_name": "v0.8.125",
+  "html_url": "https://github.com/zwmopen/gallery-updates/releases/tag/v0.8.125",
+  "version_name": "0.8.125",
+  "versionCode": 236,
+  "versionName": "0.8.125",
+  "notes": "相册 Android 0.8.125（versionCode 236）/ iOS 0.8.122（build 233）；源码提交 2a5aa4b0e4b3c45b9a98904ebb1cee7af51afade",
+  "url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.125/album-Android-v0.8.125.apk",
   "windows": {
     "version": "4.3.33",
-    "sha256": "0aafe31b5aaff0f7ac0a15584abc525523f2dc87651347b31233483f6c9d6ec7",
-    "url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.124/DeviceShareHub-Windows-V4.3.33.exe",
+    "sha256": "4b59489d20acba8603093d555077ec6558d109ab66ba7dafa32c6fafad919226",
+    "url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.125/DeviceShareHub-Windows-V4.3.33.exe",
     "file_name": "DeviceShareHub-Windows-V4.3.33.exe",
-    "release_url": "https://github.com/zwmopen/gallery-updates/releases/tag/v0.8.124"
+    "release_url": "https://github.com/zwmopen/gallery-updates/releases/tag/v0.8.125"
   }
 }
