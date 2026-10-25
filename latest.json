@@ -1,10 +1,10 @@
 {
-  "sha256": "445003ef421eedf781d89089837c2433a760f12c5bb491d0b49faabe475c93ba",
+  "sha256": "59ce641eec09af77a18ae787772691df4ff730ada32dba65dd40f4f1627c21e5",
   "apk_url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.124/album-Android-v0.8.124.apk",
   "ios": {
     "version_name": "0.8.122",
     "build": 233,
-    "sha256": "6aa4e1818edecbd995612248ee9e535a017d81be25085274555eedb5188d1327",
+    "sha256": "2c0290f79449a04b9d7087de9ed933dc3021bd99c2c486acaf155fb8662c74d9",
     "ipa_url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.124/album-iOS-v0.8.122-altstore.ipa",
     "ipa_file_name": "album-iOS-v0.8.122-altstore.ipa",
     "release_url": "https://github.com/zwmopen/gallery-updates/releases/tag/v0.8.124"
@@ -15,11 +15,11 @@
   "version_name": "0.8.124",
   "versionCode": 235,
   "versionName": "0.8.124",
-  "notes": "相册 Android 0.8.124（versionCode 235）/ iOS 0.8.122（build 233）；源码提交 48af59fa5b37c69d53c05c5a94d7a4144c0769d3",
+  "notes": "相册 Android 0.8.124（versionCode 235）/ iOS 0.8.122（build 233）；源码提交 d9a88a2f6985f527c53a1a36409e2eb9e9b63a03",
   "url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.124/album-Android-v0.8.124.apk",
   "windows": {
     "version": "4.3.33",
-    "sha256": "6f729c4d22e9eecf8de9198be6f935827afcbe551a15d6de3de4ca202e0099cf",
+    "sha256": "0aafe31b5aaff0f7ac0a15584abc525523f2dc87651347b31233483f6c9d6ec7",
     "url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.124/DeviceShareHub-Windows-V4.3.33.exe",
     "file_name": "DeviceShareHub-Windows-V4.3.33.exe",
     "release_url": "https://github.com/zwmopen/gallery-updates/releases/tag/v0.8.124"
