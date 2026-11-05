@@ -1,27 +1,27 @@
 {
-  "sha256": "3f6c674791ad03a5a93af20ec0ddfe8cf6d414f8a52637dc5e1353bb72f038dd",
-  "apk_url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.129/album-Android-v0.8.129.apk",
+  "sha256": "d9ed69bbc743905a8fa0acee410656bcc59fdd2bd2fbb5bc6ca551603623548d",
+  "apk_url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.130/album-Android-v0.8.130.apk",
   "ios": {
     "version_name": "0.8.124",
     "build": 235,
-    "sha256": "77d28d606d96391e027a203b17e1783fdc6f1b36bfb00c2a7a366a8501955aa9",
-    "ipa_url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.129/album-iOS-v0.8.124-altstore.ipa",
+    "sha256": "5658520f9d49a65bb22aac370bf06b19394c3b54e39910855db49b43a741fda4",
+    "ipa_url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.130/album-iOS-v0.8.124-altstore.ipa",
     "ipa_file_name": "album-iOS-v0.8.124-altstore.ipa",
-    "release_url": "https://github.com/zwmopen/gallery-updates/releases/tag/v0.8.129"
+    "release_url": "https://github.com/zwmopen/gallery-updates/releases/tag/v0.8.130"
   },
-  "version_code": 240,
-  "tag_name": "v0.8.129",
-  "html_url": "https://github.com/zwmopen/gallery-updates/releases/tag/v0.8.129",
-  "version_name": "0.8.129",
-  "versionCode": 240,
-  "versionName": "0.8.129",
-  "notes": "2026-11-05 DSH-198：iOS 拉取进度假死根治 · 补记 0.8.127/128（Android 0.8.129/240 · iOS 0.8.124/235 · Windows 4.3.34 · 服务端 1.2.4）\n· DSH-198（本次）：iOS 分享前拉原图「零进度」假死\n· 根因（不是网络慢，是没有任何存活反馈）\n· 修复（ios/Album/ContentView.swift，+46/−3）\n· 补记 Android 0.8.127 / 0.8.128（2026-10-27 ~ 10-29 攒批）\n· 拔除「已到期 · 正在移入回收站…」死卡假状态\n· 已使用作品严格置顶 + 最新优先（三端真正打通）\n· 制作流水角标口径统一\n· 更新弹窗透明化（UpdateChecker.java）\n· 服务端 1.2.4：手戳目录（A手动制作）终于能被识别",
-  "url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.129/album-Android-v0.8.129.apk",
+  "version_code": 241,
+  "tag_name": "v0.8.130",
+  "html_url": "https://github.com/zwmopen/gallery-updates/releases/tag/v0.8.130",
+  "version_name": "0.8.130",
+  "versionCode": 241,
+  "versionName": "0.8.130",
+  "notes": "2026-11-05 DSH-199：恢复「发送就是发送」—— 撤回 10-27 误启用的自动归档（Android 0.8.130/241 · iOS 0.8.124/235 · Windows 4.3.34 · 服务端 1.2.4）\n· OnlineWorkLifecycle.AUTO_ARCHIVE_DISABLED 在 2026-10-27 被从 true 改成 false，等于重新启用「首发时间 + 超时」自动归档：手机端发送…\n· 这与 DSH-197 的用户口径相反。而 tests/test_dsh195_server_directory_fallback.py 里 AUTO_ARCHIVE_DISABLED = true…\n· 叠加副作用：MainActivity 的已使用徽标会拿本地 lifeItem.firstSharedAtMs 反推一个到期点，于是 10-27~11-05 期间产生的本地记录会在货架上顶着「已发送」…\n· AUTO_ARCHIVE_DISABLED 恢复 true，注释里写清 10-27 的误改与 11-05 的恢复原因，并提示「将来若真要恢复倒计时，必须连同那个契约测试一起改」。\n· MainActivity 已使用徽标移除本地倒计时反推：归档机制取消后不存在任何到期点，统一显示「已使用 N 次」，不再出现「剩 N 分钟」「已发送」这类会误导的文案。\n· 服务端 expireAtMs 维持恒 0（DSH-197 既定），不需要跟着改。\n· 「已使用作品置顶 + 最新优先」不受影响：走 useCount / lastUsedAtMs，与归档机制解耦。\n· tests/test_dsh195_server_directory_fallback.py → 28 项全过（此前 1 项红）。\n· tests/parity_ios_android.py → 52/52 全过。",
+  "url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.130/album-Android-v0.8.130.apk",
   "windows": {
     "version": "4.3.34",
-    "sha256": "3abb4e80f07e2574a7731260fba440a08fb224ad9bab5209f20e6b1ad958a708",
-    "url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.129/DeviceShareHub-Windows-V4.3.34.exe",
+    "sha256": "42a785113c038b7b5fea21f047cd7715f2bf8faaea5daca40220bb70c2963809",
+    "url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.130/DeviceShareHub-Windows-V4.3.34.exe",
     "file_name": "DeviceShareHub-Windows-V4.3.34.exe",
-    "release_url": "https://github.com/zwmopen/gallery-updates/releases/tag/v0.8.129"
+    "release_url": "https://github.com/zwmopen/gallery-updates/releases/tag/v0.8.130"
   }
 }
