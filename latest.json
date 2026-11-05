@@ -1,10 +1,10 @@
 {
-  "sha256": "d9ed69bbc743905a8fa0acee410656bcc59fdd2bd2fbb5bc6ca551603623548d",
+  "sha256": "7111bfa04b68f5104a025ad34f9425f3bf680657842e315155e55a0640d0fdaf",
   "apk_url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.130/album-Android-v0.8.130.apk",
   "ios": {
     "version_name": "0.8.124",
     "build": 235,
-    "sha256": "5658520f9d49a65bb22aac370bf06b19394c3b54e39910855db49b43a741fda4",
+    "sha256": "dbede241bd46356fd03a98896407977393fad97433b57c0eb154d0ce380f5c98",
     "ipa_url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.130/album-iOS-v0.8.124-altstore.ipa",
     "ipa_file_name": "album-iOS-v0.8.124-altstore.ipa",
     "release_url": "https://github.com/zwmopen/gallery-updates/releases/tag/v0.8.130"
@@ -19,7 +19,7 @@
   "url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.130/album-Android-v0.8.130.apk",
   "windows": {
     "version": "4.3.34",
-    "sha256": "42a785113c038b7b5fea21f047cd7715f2bf8faaea5daca40220bb70c2963809",
+    "sha256": "a1979bc73768656dbea08b04d1d662363f7ef35f900e9fe0075a5694564cc42d",
     "url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.130/DeviceShareHub-Windows-V4.3.34.exe",
     "file_name": "DeviceShareHub-Windows-V4.3.34.exe",
     "release_url": "https://github.com/zwmopen/gallery-updates/releases/tag/v0.8.130"
