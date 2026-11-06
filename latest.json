@@ -1,12 +1,12 @@
 {
-  "sha256": "4072d3771b7b7d139fb55d2f7459664741b5019fe87228b04221c3a625bac464",
+  "sha256": "bbf23efb9c412808178d6fd180def7befe73a69840df74bf44e74e18049c4a96",
   "apk_url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.130/album-Android-v0.8.130.apk",
   "ios": {
-    "version_name": "0.8.125",
-    "build": 236,
-    "sha256": "44bb1a1ced9cca3ed1c873e2d4c5a0f6902894e3103c6877c0f10f6ea3347680",
-    "ipa_url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.130/album-iOS-v0.8.125-altstore.ipa",
-    "ipa_file_name": "album-iOS-v0.8.125-altstore.ipa",
+    "version_name": "0.8.126",
+    "build": 237,
+    "sha256": "dce0deff3a386b6b834d14c941efbb6aba8b6223c59abe098eafa499ecb275e2",
+    "ipa_url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.130/album-iOS-v0.8.126-altstore.ipa",
+    "ipa_file_name": "album-iOS-v0.8.126-altstore.ipa",
     "release_url": "https://github.com/zwmopen/gallery-updates/releases/tag/v0.8.130"
   },
   "version_code": 241,
@@ -15,11 +15,11 @@
   "version_name": "0.8.130",
   "versionCode": 241,
   "versionName": "0.8.130",
-  "notes": "· 分享前拉原图更稳：同时只拉 3 张，不再一次把整组推出去把网挤死\n· 单张图最多等 3 分钟才判失败（原来 60 秒），重试间隔也拉长到 1.5 秒、3 秒\n· 少了某一张不再整单失败，能发几张就发几张，并告诉你有几张没取到",
+  "notes": "· 苹果手机拉原图时有了进度窗口：进度条、第几张 / 共几张、已用几秒\n· 窗口里显示当前正在下载的文件名，长时间不动也会走秒，不再像卡死\n· 苹果手机弱网下拉原图更稳：同时只拉 3 张，单张最多等 3 分钟",
   "url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.130/album-Android-v0.8.130.apk",
   "windows": {
     "version": "4.3.34",
-    "sha256": "43c0e7a3e5b40147e749894627c36f74e89d2dd0f549df0ee0e81ab5eaea2d67",
+    "sha256": "86810a4432c790a424962940968a9cafbe988dd48cfe61354d0e47a30ba9c993",
     "url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.130/DeviceShareHub-Windows-V4.3.34.exe",
     "file_name": "DeviceShareHub-Windows-V4.3.34.exe",
     "release_url": "https://github.com/zwmopen/gallery-updates/releases/tag/v0.8.130"
