@@ -1,27 +1,27 @@
 {
-  "sha256": "bbf23efb9c412808178d6fd180def7befe73a69840df74bf44e74e18049c4a96",
-  "apk_url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.130/album-Android-v0.8.130.apk",
+  "sha256": "44b3d916cb314127722e2c86ad2d29f8349f14f323ae72c2118054252ee106f8",
+  "apk_url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.131/album-Android-v0.8.131.apk",
   "ios": {
-    "version_name": "0.8.126",
-    "build": 237,
-    "sha256": "dce0deff3a386b6b834d14c941efbb6aba8b6223c59abe098eafa499ecb275e2",
-    "ipa_url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.130/album-iOS-v0.8.126-altstore.ipa",
-    "ipa_file_name": "album-iOS-v0.8.126-altstore.ipa",
-    "release_url": "https://github.com/zwmopen/gallery-updates/releases/tag/v0.8.130"
+    "version_name": "0.8.127",
+    "build": 238,
+    "sha256": "4b14bedc5efa6b3ed78f09dfac3083ae0584ecf68a7c5f0b47fa3f7f21b6bce7",
+    "ipa_url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.131/album-iOS-v0.8.127-altstore.ipa",
+    "ipa_file_name": "album-iOS-v0.8.127-altstore.ipa",
+    "release_url": "https://github.com/zwmopen/gallery-updates/releases/tag/v0.8.131"
   },
-  "version_code": 241,
-  "tag_name": "v0.8.130",
-  "html_url": "https://github.com/zwmopen/gallery-updates/releases/tag/v0.8.130",
-  "version_name": "0.8.130",
-  "versionCode": 241,
-  "versionName": "0.8.130",
-  "notes": "· 苹果手机拉原图时有了进度窗口：进度条、第几张 / 共几张、已用几秒\n· 窗口里显示当前正在下载的文件名，长时间不动也会走秒，不再像卡死\n· 苹果手机弱网下拉原图更稳：同时只拉 3 张，单张最多等 3 分钟",
-  "url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.130/album-Android-v0.8.130.apk",
+  "version_code": 242,
+  "tag_name": "v0.8.131",
+  "html_url": "https://github.com/zwmopen/gallery-updates/releases/tag/v0.8.131",
+  "version_name": "0.8.131",
+  "versionCode": 242,
+  "versionName": "0.8.131",
+  "notes": "· 删除作品时，电脑端会先看你有没有用过它：用过的进「_已发送」，从没用过的才进「垃圾样本库」\n· 删除确认框和删除后的提示都说清了这件事，不再让你以为东西被扔了\n· 自动删除（到期下架）也只搬用过的作品，没用过的不会被顺手清走",
+  "url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.131/album-Android-v0.8.131.apk",
   "windows": {
     "version": "4.3.34",
-    "sha256": "86810a4432c790a424962940968a9cafbe988dd48cfe61354d0e47a30ba9c993",
-    "url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.130/DeviceShareHub-Windows-V4.3.34.exe",
+    "sha256": "f34576c23f31836d2eab983a5b0ec3d4cf650b33fa2100aefb60e59be7390c3a",
+    "url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.131/DeviceShareHub-Windows-V4.3.34.exe",
     "file_name": "DeviceShareHub-Windows-V4.3.34.exe",
-    "release_url": "https://github.com/zwmopen/gallery-updates/releases/tag/v0.8.130"
+    "release_url": "https://github.com/zwmopen/gallery-updates/releases/tag/v0.8.131"
   }
 }
