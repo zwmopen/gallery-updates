@@ -1,12 +1,12 @@
 {
-  "sha256": "cc31f13ef7f422510d461c0aa6c51a5d9e669fff5a6511d388469fa8b7da4202",
+  "sha256": "4072d3771b7b7d139fb55d2f7459664741b5019fe87228b04221c3a625bac464",
   "apk_url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.130/album-Android-v0.8.130.apk",
   "ios": {
-    "version_name": "0.8.124",
-    "build": 235,
-    "sha256": "e002767758c1184fac49b749a5a91093971a3d3f2c04924b05c20c6d5ae549f0",
-    "ipa_url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.130/album-iOS-v0.8.124-altstore.ipa",
-    "ipa_file_name": "album-iOS-v0.8.124-altstore.ipa",
+    "version_name": "0.8.125",
+    "build": 236,
+    "sha256": "44bb1a1ced9cca3ed1c873e2d4c5a0f6902894e3103c6877c0f10f6ea3347680",
+    "ipa_url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.130/album-iOS-v0.8.125-altstore.ipa",
+    "ipa_file_name": "album-iOS-v0.8.125-altstore.ipa",
     "release_url": "https://github.com/zwmopen/gallery-updates/releases/tag/v0.8.130"
   },
   "version_code": 241,
@@ -15,11 +15,11 @@
   "version_name": "0.8.130",
   "versionCode": 241,
   "versionName": "0.8.130",
-  "notes": "· 发送过的作品不会再自己从货架上消失，也不会被悄悄挪进回收站\n· 「已使用」的作品固定顶在最上面，最近用过的排最前\n· 卡片只显示「已使用 N 次」，不再出现「剩 N 分钟」「已发送」这类倒计时\n· 苹果手机分享前拉原图会显示第几张、共几张、已用几秒，不再一直转圈像卡死",
+  "notes": "· 分享前拉原图更稳：同时只拉 3 张，不再一次把整组推出去把网挤死\n· 单张图最多等 3 分钟才判失败（原来 60 秒），重试间隔也拉长到 1.5 秒、3 秒\n· 少了某一张不再整单失败，能发几张就发几张，并告诉你有几张没取到",
   "url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.130/album-Android-v0.8.130.apk",
   "windows": {
     "version": "4.3.34",
-    "sha256": "350813e9fec3389ee0e5889f17d38d65e03b9673a62817794729ed805d71d3e7",
+    "sha256": "43c0e7a3e5b40147e749894627c36f74e89d2dd0f549df0ee0e81ab5eaea2d67",
     "url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.130/DeviceShareHub-Windows-V4.3.34.exe",
     "file_name": "DeviceShareHub-Windows-V4.3.34.exe",
     "release_url": "https://github.com/zwmopen/gallery-updates/releases/tag/v0.8.130"
