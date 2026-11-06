@@ -15,7 +15,7 @@
   "version_name": "0.8.130",
   "versionCode": 241,
   "versionName": "0.8.130",
-  "notes": "2026-11-05 DSH-199：恢复「发送就是发送」—— 撤回 10-27 误启用的自动归档（Android 0.8.130/241 · iOS 0.8.124/235 · Windows 4.3.34 · 服务端 1.2.4）\n· OnlineWorkLifecycle.AUTO_ARCHIVE_DISABLED 在 2026-10-27 被从 true 改成 false，等于重新启用「首发时间 + 超时」自动归档：手机端发送…\n· 这与 DSH-197 的用户口径相反。而 tests/test_dsh195_server_directory_fallback.py 里 AUTO_ARCHIVE_DISABLED = true…\n· 叠加副作用：MainActivity 的已使用徽标会拿本地 lifeItem.firstSharedAtMs 反推一个到期点，于是 10-27~11-05 期间产生的本地记录会在货架上顶着「已发送」…\n· AUTO_ARCHIVE_DISABLED 恢复 true，注释里写清 10-27 的误改与 11-05 的恢复原因，并提示「将来若真要恢复倒计时，必须连同那个契约测试一起改」。\n· MainActivity 已使用徽标移除本地倒计时反推：归档机制取消后不存在任何到期点，统一显示「已使用 N 次」，不再出现「剩 N 分钟」「已发送」这类会误导的文案。\n· 服务端 expireAtMs 维持恒 0（DSH-197 既定），不需要跟着改。\n· 「已使用作品置顶 + 最新优先」不受影响：走 useCount / lastUsedAtMs，与归档机制解耦。\n· tests/test_dsh195_server_directory_fallback.py → 28 项全过（此前 1 项红）。\n· tests/parity_ios_android.py → 52/52 全过。",
+  "notes": "· 发送过的作品不会再自己从货架上消失，也不会被悄悄挪进回收站\n· 「已使用」的作品固定顶在最上面，最近用过的排最前\n· 卡片只显示「已使用 N 次」，不再出现「剩 N 分钟」「已发送」这类倒计时\n· 苹果手机分享前拉原图会显示第几张、共几张、已用几秒，不再一直转圈像卡死",
   "url": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.130/album-Android-v0.8.130.apk",
   "windows": {
     "version": "4.3.34",
