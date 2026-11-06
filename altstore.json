@@ -23,6 +23,15 @@
       "category": "photo-video",
       "versions": [
         {
+          "version": "0.8.127",
+          "buildVersion": "238",
+          "date": "2026-11-06T09:33:03Z",
+          "localizedDescription": "云端更新：0.8.127（build 238）。",
+          "downloadURL": "https://github.com/zwmopen/gallery-updates/releases/download/v0.8.131/album-iOS-v0.8.127-altstore.ipa",
+          "size": 22681633,
+          "sha256": "4b14bedc5efa6b3ed78f09dfac3083ae0584ecf68a7c5f0b47fa3f7f21b6bce7"
+        },
+        {
           "version": "0.8.126",
           "buildVersion": "237",
           "date": "2026-11-06T07:17:25Z",
